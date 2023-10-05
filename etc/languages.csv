@@ -1,0 +1,1743 @@
+name,code,type,glottocode,glottolog_name
+Old Lithuanian,090,language,oldl1240,
+North Slavey,09k,subgroup,nort2942,
+Hare,09l,subgroup,hare1244,
+Coast Tsimshian,09v,subgroup,coas1300,
+Southern Tsimshian,09w,subgroup,sout2962,
+Patwin,09x,subgroup,patw1250,
+Tulua,0g3,subgroup,gure1255,
+Piria,0g4,language,pirr1240,
+Ilba,0g5,subgroup,,
+Gia,0g6,subgroup,,
+Moothaburra,0g7,subgroup,,
+Wadjalong,0g8,subgroup,,
+Jimun,0g9,subgroup,,
+Minkin,0gj,subgroup,,
+Theddora,0gm,subgroup,,
+MpalitYan̯,0gr,subgroup,,
+Ngkoth,0gt,subgroup,,
+Jinwun,0gu,language,,
+Aritinngithigh,0gv,language,,
+Angutimi,0gw,subgroup,,
+Nrwaʔa,0gw-nrw,dialect,,
+Mbeiwum,0gx,subgroup,,
+Tarkalag,0gz,subgroup,,
+Ulaolinya,0h0,subgroup,,
+Maljangaba,0h1,subgroup,,
+Karawali,0h3,subgroup,,
+Kairi,0h5,subgroup,,
+Gabi,0ha,language,,
+Badjela,0ha-bad,dialect,,
+Jagara,0he,subgroup,,
+Guwar,0hf,language,,
+Burragorang,0hg,subgroup,,
+Ngarigo,0hh,subgroup,,
+Walgalu,0hh-wol,dialect,,
+Darkinjung,0hk,language,,
+Eo-ra,0hl,subgroup,,
+Yorta Yorta,0hm,subgroup,,
+Yabula Yabula,0hn,language,,
+Wambo Wambo,0ho,subgroup,,
+Karraba,0ho-bar,dialect,,
+Nari Nari,0hp,language,,
+Wathaurung,0hq,language,,
+Coligan,0hr,subgroup,,
+Kirawirung,0hs,subgroup,,
+Bungandaetch,0ht,language,,
+Kuurnkopannoot,0hu,subgroup,,
+Kirawirung,0hu-kir,dialect,,
+Ngaiawong,0hv,subgroup,,
+Yerraruck,0hw,subgroup,,
+Yerraruck,0hw-era,dialect,,
+Ngawaijung,0hw-nga,dialect,,
+Ngintait,0hw-ngi,dialect,,
+Merkani,0hw-ngr,dialect,,
+Kerinma,0hx,subgroup,,
+Munumburu,0ik,subgroup,,
+Otomí,0n0,subgroup,,
+Northern Misteko,0n1,subgroup,,
+Centreal Mixteco,0n2,subgroup,,
+Southern Misteko,0n3,subgroup,,
+Choco Proper,0ny,subgroup,,
+Mailnga,0p7,subgroup,,
+Mirning-Ngadjunma-Kalarko,0ql,subgroup,,
+Koara,0s1,subgroup,,
+Ngurlu,0s5,subgroup,,
+Tjalkatjarra,0s7,subgroup,,
+Mandjinjiwonga,0s9,subgroup,,
+Kardutjara-YulapaRitʸa,0sc,subgroup,,
+Inawonga,0sl,subgroup,,
+Wirdinya,0sm,subgroup,,
+Tjitiyamba,0st,subgroup,,
+Ngaiuwonga,0su,subgroup,,
+Tjeraridjal,0ta,subgroup,,
+Moorooon,0tb,subgroup,,
+Ngaliya,0tc,subgroup,,
+Jadliaura,0ty,language,,
+Ngulangulandji,0u7,subgroup,,
+Wadikali,0u8,language,,
+Marulta,0u9,subgroup,,
+Ayerreyenge,0ug,subgroup,,
+Janda,0uq,subgroup,,
+Kungaditji,0uu,subgroup,,
+Moorloobullo,0uw,subgroup,,
+Rukkia,0ux,subgroup,,
+Ringu-Ringu,0uy,subgroup,,
+Mayawarli,0uz,subgroup,,
+Ngunnhalgri,0va,language,,
+Wanywalgu,0vb,subgroup,,
+Ngaraltu,0vc,subgroup,,
+Peramangk,0vd,subgroup,,
+Nganguruku,0ve,subgroup,,
+Wotjobaluk,0vf,subgroup,,
+Yaran,0vf-bed,dialect,,
+Painbali,0vf-dja,dialect,,
+Wotjobaluk,0vf-wot,dialect,,
+Yarreyarre,0vp,subgroup,,
+Ladji-Ladji,0vx,language,,
+Madhi Madhi,0vy,language,,
+Wudjawuru,0w0,language,,
+Jitajita,0wd,subgroup,,
+Jardwadjali,0wr,language,,
+Mardidjali,0wr-mar,dialect,,
+Djakunda,0x0,subgroup,,
+Daribalang,0x1,subgroup,,
+Baranbinja,0x2,subgroup,,
+Murrungama,0x8,subgroup,,
+Woiwurrung,0xf,language,,
+Bunurong,0xf-bun,dialect,,
+Thagungwurrung,0xf-tng,dialect,,
+Tyapwurru,0xn,language,,
+Kurung,0xo,subgroup,,
+Gunnai,0xp,language,,
+Brabirra-wulung,0xp-brb,dialect,,
+Braiakaulung,0xp-bri,dialect,,
+arrawarracka,0xp-brt,dialect,,
+Krauatungulung,0xp-kra,dialect,,
+Tatungalung,0xp-tat,dialect,,
+Bidhawal,0xq,language,,
+Janday ,0xs,language,,
+Ngamba,0xt,subgroup,,
+Ngaku,0xu,subgroup,,
+Kambuwal,0xv,subgroup,,
+Moondjan,0xx,language,,
+Keinjan,0xy,subgroup,,
+Jagara,0xz,language,,
+Wakelbara,0y1,subgroup,,
+Barna,0y2,subgroup,,
+Nguro,0y3,subgroup,,
+Miyan,0y4,subgroup,,
+Pikambal,0ya,subgroup,,
+Wangan,0yz,subgroup,,
+Charumbul,0zc,subgroup,,
+Juru,0zm,subgroup,,
+Bindal,0zn,subgroup,,
+"""Ndorobo""",aam,subgroup,aram1252,Aramanik
+Abé,aba,language,abee1242,Abé
+Abo,abb,subgroup,bank1256,Bankon
+Western Abenaki,abe,language,west2630,Western Abenaki
+Abkhaz,abk,language,abkh1244,Abkhaz
+Abzhui,abk-abz,dialect,abkh1244,
+Bzyb,abk-bzy,dialect,bzyb1238,
+Samurzakan,abk-sam,dialect,samu1242,
+Abenakian,abnk,subgroup,aben1250,
+Tapanta,abq,subgroup,abaz1241,Abaza
+Ashkar,abq-ash,dialect,ashk1247,
+Tapanta,abq-tap,dialect,tapa1256,
+Abron,abr,language,abro1238,Abron
+Achoma'wi,acv,subgroup,achu1247,Achumawi
+"Arabic, Hijazi Spoken",acw,language,hija1235,Hijazi Arabic
+Adamawa,adam,subgroup,adam1253,
+Andegerebinha,adg,language,ande1247,Andegerebinha
+Adnyamathanha,adt,language,adny1235,Adnyamathanha
+Adyghe,ady,language,adyg1241,Adyghe
+Abadzex,ady-aba,dialect,abad1240,
+Bzedux,ady-bez,dialect,bezh1247,
+Natukhai,ady-nat,dialect,natu1243,
+Shapsug,ady-sha,dialect,shap1240,
+Xakuchi,ady-xak,dialect,xaku1238,
+"Arrernte, Eastern",aer,language,east2379,Eastern Arrernte
+Afro-Asiatic,afas,subgroup,afro1255,
+Afrikaans,afr,subgroup,afri1274,Afrikaans
+Semitic,afsm,subgroup,semi1276,
+Aguacatec,agu,subgroup,agua1252,Aguacateco
+Aghulshuy,agx,subgroup,aghu1253,Aghul
+Kimanteney,ahg,subgroup,qima1242,Qimant
+Ah-tena,aht,subgroup,ahte1237,Ahtena
+Ahtna,ahtn,subgroup,ahte1237,
+Alngith,aid,language,alng1239,Alngith
+Ainu,ain,language,ainu1240,Hokkaido Ainu
+Ari-Galila,aiw,language,aari1239,Aari
+Arabic (Negev),ajp,subgroup,sout3123,South Levantine Arabic
+"Arabic, Judeo-Moroccan",aju,subgroup,jude1265,Judeo-Moroccan Arabic
+Akan,akan,subgroup,akan1250,
+Akasele,aks,subgroup,akas1242,Akaselem
+Alabama,akz,subgroup,alab1237,Alabama
+Aleut,ale,language,aleu1260,Aleut
+Aleut,aleu,subgroup,aleu1260,
+Algic,algi,subgroup,algi1248,
+Algonquian,algo,subgroup,algo1257,
+Allaura,alh,subgroup,alaw1244,Alawa
+Algonkin,alq,subgroup,algo1255,Algonquin
+Northern Algonquin,alq-nor,language,cree1271,
+Alutor,alr,language,alut1245,Alutor
+Altai (Southern),alt,subgroup,sout2694,Southern Altai
+Altai Proper,alt-alt,dialect,,
+Alyawarre,aly,subgroup,alya1239,Alyawarr
+Amurdag,amg,subgroup,amar1271,Amurdak
+Amusgo,amu,language,guer1243,Guerrero Amuzgo
+Amusgo,amuz,subgroup,guer1243,
+Anmatjirra,amx,subgroup,anma1239,Anmatyerre
+Andi,andi,subgroup,,
+Austronesische Sprachen,anes,subgroup,aust1307,
+Antakarinya,ant,language,anta1253,Antakarinya
+Anindilyakwa,aoi,language,anin1240,Anindilyakwa
+Apachean Athabaskan,apac,subgroup,apac1239,
+Jicarilla,apj,subgroup,jica1244,Jicarilla Apache
+Llanero,apk,subgroup,kiow1264,Kiowa Apache
+Mescalero-Chiricahau,apm,language,mesc1238,Mescalero-Chiricahua Apache
+Chiricahua,apm-chi,dialect,mesc1238,
+Mescalero,apm-mes,dialect,mesc1238,
+"Apache, Western",apw,subgroup,west2615,Western Apache
+Archi,aqc,subgroup,arch1244,Archi
+Arabic,ara,subgroup,arab1395,
+Araona,arao,subgroup,arao1248,
+"Arabic, Standard",arb,subgroup,stan1318,Standard Arabic
+Ngarabana,ard,subgroup,arab1267,Arabana
+Arrernte,are,subgroup,west2441,Western Arrarnta
+Southern Aranda,are-sou,dialect,,
+Aragonese,arg,language,arag1245,Aragonese
+Arapahoan,arho,subgroup,arap1274,
+Arikara,ari,language,arik1262,Arikara
+armenische,arme,subgroup,east2768,
+Araona,aro,language,arao1248,Araona
+Arapaho,arp,subgroup,arap1274,Arapaho
+"Arabic, Algerian Spoken",arq,language,alge1239,Algerian Arabic
+"Arabic, Najdi Spoken",ars,language,najd1235,Najdi Arabic
+Arabic (Moroccan),ary,subgroup,moro1292,Moroccan Arabic
+"Arabic, Egyptian Spoken",arz,language,egyp1253,Egyptian Arabic
+Kow,asa,subgroup,asut1235,Asu (Tanzania)
+Stoney,asb,language,assi1247,Assiniboine
+Astur-Leonese,ast,subgroup,astu1245,Asturian-Leonese-Cantabrian
+Atsahuaca,atc,subgroup,atsa1242,Atsahuaca
+Athapaskan,atha,subgroup,atha1247,
+Attikamek,atj,language,atik1240,Atikamekw
+Gros Ventre,ats,dialect,gros1243,Gros Ventre
+Telengit,atv,dialect,nort2686,Northern Altai
+Australian Creole,aucr,subgroup,,
+Kaukau,aue,subgroup,kxau1241,Groot Laagte =/Kx'au//'ein
+Australian Pidgin,aupi,subgroup,,
+Austroasiatischen Sprachen,ausa,subgroup,aust1305,
+Avar,ava,language,avar1256,Avar
+Awabakal,awk,language,awab1243,Awabakal
+Cameeragal,awk-cam,dialect,came1251,
+Wannerawa,awk-won,dialect,wona1238,
+Awngi,awn,language,awng1244,Awngi
+Aymara,ayc,subgroup,sout2996,Southern Aymara
+Guang,ayg,subgroup,giny1241,Ginyanga
+Arabic (Eastern Libyan),ayl-eas,dialect,,
+Aymaran Family,ayma,subgroup,ayma1253,
+Ayoreo,ayo,language,ayor1240,Ayoreo
+"Arabic, North Mesopotamian Spoken",ayp,language,nort3142,North Mesopotamian Arabic
+Aymara,ayr,subgroup,cent2142,Central Aymara
+Afsar,azb-afs,dialect,afsh1238,
+Northern Iranian,azb-ira,dialect,,
+Oaxaca Amuzgo,azg,subgroup,sanp1260,San Pedro Amuzgos Amuzgo
+"Azerbaijani, North",azj,subgroup,nort2697,North Azerbaijani
+Amusgo,azm,language,ipal1235,Ipalapa Amuzgo
+Azerbaijanian,azn,language,west2778,Western Durango Nahuatl
+Aztecold,azte,subgroup,,
+Babine-Carrier,babi,subgroup,babi1235,
+Baskir,bak,language,bash1264,Bashkir
+Bamanankan,bam,language,bamb1269,Bambara
+Central Bantu,bant,subgroup,,
+Basaa,bas,language,basa1284,Basa (Cameroon)
+Berber Proper,bbpr,subgroup,,
+Baule,bci,subgroup,baou1238,Baoulé
+Bardi,bcj,subgroup,bard1255,Bardi
+Punamba,bck,subgroup,buna1275,Bunaba
+Benue-Congo,bcon,subgroup,,
+Babine,bcr,language,babi1235,Witsuwit'en-Babine
+Bajau (Indonesian),bdl,subgroup,indo1317,Indonesian Bajau
+Mbulunge,bds,subgroup,buru1320,Burunge
+Budulung,bdy,subgroup,midd1357,Middle Clarence Bandjalang
+Giabal,bdy-gid,dialect,,
+Widjabal,bdy-wid,dialect,,
+Yugumbir,bdy-yug,dialect,,
+Beaver,bea,language,beav1236,Beaver
+Beaver-Sekani,beav,subgroup,,
+Bedya,bej,subgroup,beja1238,Beja
+Bielorussian,bel,subgroup,bela1254,Belarusian
+Brèst-Pinsk,bel-brp,dialect,,
+Bella Coola,belc,subgroup,,
+Central Belarusan,bel-cen,dialect,,
+Polack,bel-pol,dialect,,
+Sluck-Babrujsk-Mazyr,bel-sbm,dialect,,
+Vicebsk-Mahilëŭ,bel-vic,dialect,,
+Bemba,bem,language,bemb1257,Bemba (Zambia)
+Berber,berb,subgroup,,
+Bena,bez,language,bena1262,Bena (Tanzania)
+Nil-Bari,bfa,subgroup,bari1284,Bari
+Badugu,bfq,subgroup,bada1257,Badaga
+Wuri,bga-wur,dialect,,
+Bidungu,bia,subgroup,badi1246,Badimaya
+Biu-Mandara Branch,bium,subgroup,,
+Parnkala,bjb,subgroup,bang1339,Banggarla
+Bandjigali,bjd,language,band1337,Bandjigali
+Bayali,bjy,language,baya1257,Bayali
+Bakoko,bkh,language,bako1249,Bakoko
+Blackfoot,bla,subgroup,siks1238,Siksika
+Bella Coola,blc,language,bell1243,Bella Coola
+Blackfoot,blft,subgroup,,
+Bomu,bmq,subgroup,bomu1247,Bomu
+Benga,bng,subgroup,beng1282,Benga
+Bobangi,bni,subgroup,bang1354,Bobangi
+Batanga,bnm,language,bata1285,Batanga
+Baniata,bnt,subgroup,,
+Bantoid,bntd,subgroup,,
+Boni,bob,language,awee1242,Aweer
+Bolon,bof,subgroup,bolo1266,Bolon
+Moho,bopa,subgroup,,
+Bondei,bou,language,bond1247,Bondei
+Baure,brg,subgroup,baur1253,Baure
+Mokpwe,bri,language,mokp1239,Mokpwe
+Akosi,bss,subgroup,akoo1248,Akoose
+Mwambong,bss-mwa,dialect,,
+Beothuk,bthk,subgroup,,
+Beothuk,bue,subgroup,beot1247,Beothuk
+Bushoong,buf,language,bush1247,Bushoong
+Bulu,bum,subgroup,bulu1251,Bulu (Cameroon)
+Buriat,buri,subgroup,,
+Bubi,bvb,subgroup,bube1242,Bube
+Komi,bvhe,subgroup,,
+Burarra,bvr,subgroup,bura1267,Burarra
+Dibole,bvx,language,dibo1245,Dibole
+Barwe,bwg,language,barw1243,Barwe
+Yarri-kuna,bxi,subgroup,pirl1238,Pirlatapa
+Baijungo,bxj,subgroup,bayu1240,Bayungu
+Bukusu,bxk,language,buku1249,Bukusu
+"Buriat, Mongolia",bxm,language,mong1330,Mongolia Buriat
+Bootena,bxn,subgroup,burd1238,Burduna
+Northern Mongolian,bxr,subgroup,russ1264,Russia Buriat
+Bankagooma,bxw,subgroup,bank1258,Bankagooma
+Bidyara,bym,language,bidy1243,Bidyara
+Gnoree,bym-ngu,dialect,,
+Wadjabangai,bym-wdb,dialect,,
+Birri Gubba,bzr,subgroup,biri1256,Biri
+Barada,bzr-bar,dialect,,
+Jangaa,bzr-jan,dialect,,
+Kabelbara,bzr-kab,dialect,,
+Karranbal,bzr-kar,dialect,,
+Wiri,bzr-wir,dialect,,
+Yambina,bzr-yam,dialect,,
+Ch'orti,caa,subgroup,chor1273,Chortí
+"Chuj, San Sebastián Coatán",cac,subgroup,chuj1250,Chuj
+Caddoe,cad,subgroup,cadd1256,Caddo
+Ulkatcho,caf,subgroup,sout2958,Southern Carrier
+Kahita,cahi,subgroup,,
+Cakchiquel-Pocomchi,cakc,subgroup,,
+California Athabaskan,cali,subgroup,,
+Chákobo,cao,subgroup,chac1251,Chácobo
+Mosetén,cas,language,mose1249,Mosetén-Chimané
+Catalan,cat,subgroup,stan1289,Catalan
+Chiquitano,cax,subgroup,chiq1248,Lomeriano-Ignaciano Chiquitano
+Paiconeca,cax-pai,dialect,,
+Cayuga,cay,subgroup,cayu1261,Cayuga
+Kanichana,caz,subgroup,cani1243,Canichana
+Cicopi,cce,subgroup,chop1243,Chopi
+Tonga,cce-ton,dialect,,
+Chinanteco (Comaltepec),cco,subgroup,coma1246,Comaltepec Chinantec
+Central Central-Southwestern Mande,ccsm,subgroup,,
+Central Cushtic,ccus,subgroup,,
+Celtic,celt,subgroup,,
+Central-Eastern Malayo-Polynesian,cemp,subgroup,,
+Chad,chad,subgroup,,
+Chaga (E.30),chag,subgroup,,
+Chohco,chch,subgroup,,
+Highland Chontal,chd,dialect,high1242,Highland Oaxaca Chontal
+Chechen,che,language,chec1245,Chechen
+Itumkala,che-itu,dialect,,
+Ploskost,che-plo,dialect,,
+Mariic,cher,subgroup,,
+Cheyenne,chey,subgroup,,
+Yokotán,chf,subgroup,taba1266,Tabasco Chontal
+Chinanteko,chic,subgroup,,
+Chinook,chik,subgroup,,
+Chilcotin,chil,subgroup,,
+Chinesische,chin,subgroup,,
+Chiquito,chiq,subgroup,,
+Chinanteco,chj,subgroup,ojit1237,Ojitlán Chinantec
+Cahuilla,chl,subgroup,cahu1264,Cahuilla
+Chinook Wawa,chn,language,chin1272,Creolized Grand Ronde Chinook Jargon
+Choctaw,cho,subgroup,choc1276,Choctaw
+Chowra-Teressa,chot,subgroup,,
+Sluacus-tinneh,chp,subgroup,chip1261,Chipewyan
+Chinanteco (Quiotepec),chq,subgroup,quio1240,Quiotepec Chinantec
+Cherokee,chr,subgroup,cher1273,Cherokee
+Chuvash,chv,language,chuv1255,Chuvash
+Winnebago-Chiwere,chwi,subgroup,,
+Cheyenne,chy,subgroup,chey1247,Cheyenne
+Ozumacin Chinantec,chz,language,ozum1235,Ozumacín Chinantec
+Chickasaw,cic,language,chic1270,Chickasaw
+Ojibwe (Minnesota),ciw,subgroup,chip1241,Chippewa
+Chokwe,cjk,language,chok1245,Chokwe
+Kuznets Tatar,cjs,subgroup,shor1247,Mrassu Shor-Tutal
+Kurdy,ckb,subgroup,cent1972,Central Kurdish
+Chukot,ckt,language,chuk1273,Chukchi
+Koasati,cku,language,koas1236,Koasati
+Kavalan,ckv,language,kava1241,Kavalan
+Ron,cla,language,ronn1241,Ron
+Chilcotin,clc,language,chil1280,Chilcotin-Nicola
+Lealao Chinantec,cle,subgroup,leal1235,Lealao Chinantec
+Klellam,clm,subgroup,clal1241,Clallam
+Lowland Chontal,clo,dialect,lowl1260,Lowland Oaxaca Chontal
+Chulym,clw,subgroup,chul1246,Lower Chulym Turkic
+"Chatino, Eastern Highland",cly,subgroup,east2558,Eastern Highland Chatino
+Cerma,cme,subgroup,cerm1238,Cerma
+"Chinese, Mandarin",cmn,subgroup,mand1415,Mandarin Chinese
+Cree-Montagnais-Naskapi,cmna,subgroup,,
+Central Malayo-Polynesian,cmpo,subgroup,,
+Chinanteco,cnl,subgroup,lala1270,Lalana Chinantec
+Tepetotutla Chinantec,cnt,language,tepe1279,Tepetotutla Chinantec
+Central Numic,cnum,subgroup,,
+Chicomuceltec,cob,subgroup,chic1271,Chicomuceltec
+Cadegomeño,coj,dialect,coch1272,Cochimi
+Guaycura,coj-gua,dialect,,
+Monqui-Didiu,coj-mon,dialect,,
+Cora,cok,subgroup,sant1424,Santa Teresa Cora
+Moses Columbia,col,dialect,colu1241,Columbia-Wenatchi
+Comanche,com,language,coma1245,Comanche
+Çatlotq,coo,subgroup,como1259,Comox
+Sliammon,coo-sli,dialect,,
+Koran,cora,subgroup,,
+Corsican,cos,language,cors1241,Corsican
+Palantla Chinanteko,cpa,language,pala1351,Palantla Chinantec
+Central Papuan,cpap,subgroup,,
+Central Quechua,cqch,subgroup,,
+Coeur D'Alene,crd,subgroup,coeu1236,Coeur d'Alene
+Cree,cree,subgroup,,
+Michif,crg,language,mich1243,Michif
+Crimean Tatar,crh,language,crim1257,Crimean Tatar
+Southern East Cree,crj,language,sout2978,Southern East Cree
+Western Cree,crk,subgroup,plai1258,Plains Cree
+Northern East Cree,crl,language,nort1552,Northern East Cree
+Eastern Swampy Cree,crm,language,moos1236,Moose Cree
+Cora,crn,subgroup,elna1235,El Nayar Cora
+Crow,cro,language,crow1244,Crow
+Central Carrier,crx,subgroup,carr1249,Central Carrier
+"Chinantec, Chiltepec",csa,subgroup,chil1282,Chiltepec Chinantec
+Coast Salish,csal,subgroup,,
+Kashubian,csb,subgroup,kash1274,Kashubian
+Central Sierra Miwok,csm,subgroup,cent2140,Central Sierra Miwok
+Chinanteco,cso,subgroup,soch1239,Sochiapam Chinantec
+Central Sudanic,csud,subgroup,,
+Swampy Cree,csw,subgroup,swam1239,Swampy Cree
+Eastern Swampy Cree,csw-eas,language,,
+Central/South-west Mande,cswm,subgroup,,
+Western Swampy Cree,csw-wes,language,,
+Tatalpepec Chatino,cta,dialect,tata1258,Tataltepec Chatino
+Tepinapa Chinantec,cte,language,tepi1241,Tepinapa Chinantec
+Chinanteco,ctl,subgroup,tlac1239,Tlacoatzintepec Chinantec
+Chatino,ctp,language,west2644,Western Highland Chatino
+Putum,ctu,subgroup,chol1282,Chol
+Chatino,ctz,language,zaca1242,Zacatepec Chatino
+Usila Chinanteko,cuc,language,usil1237,Usila Chinantec
+Cupan,cupa,subgroup,,
+proto-Cushtic,cush,subgroup,,
+Kwikateko,cut,language,teut1235,Teutila Cuicatec
+Kwikateko,cux,subgroup,tepe1280,Tepeuxila Cuicatec
+Chinanteco,cvn,subgroup,vall1253,Valle Nacional Chinantec
+Cree,cwd,subgroup,wood1236,Woods Cree
+"Chatino, Nopala",cya,subgroup,nopa1235,Nopala Chatino
+Cayubaba,cyb,subgroup,cayu1262,Cayubaba
+Cochimi-Yuman,cyum,subgroup,,
+Zenzontepec Chatino,czn,dialect,zenz1235,Zenzontepec Chatino
+Dagbani,dag,language,dagb1246,Dagbani
+Santee,dak,subgroup,dako1258,Dakota
+Dakotan,dako,subgroup,,
+Dahalo,dal,language,daha1245,Dahalo
+Dargintsy,dar,subgroup,darg1241,North-Central Dargwa
+Kajtak,dar-kaj,dialect,,
+Kubachi,dar-kub,dialect,,
+Taita,dav,subgroup,tait1250,Taita
+Dyirbal,dbl,language,dyir1250,Dyirbal
+Girramy,dbl-gir,dialect,,
+Gulnguy,dbl-gul,dialect,,
+Mamu,dbl-mam,dialect,,
+Ngadjan,dbl-nga,dialect,,
+Jaroo,ddj,subgroup,jaru1254,Jaru
+Djaru,ddj-dja,dialect,,
+Nyinin,ddj-nyi,dialect,,
+The Detah-Ndilo dialect developed from intermarriage between the Yellowknife subdivision of the Chipewyan and the Dogrib. Lexical similarity 84% with Southern Slavey,dgr,subgroup,dogr1252,Dogrib
+Dhegihan,dheg,subgroup,,
+Waramiri,dhg,subgroup,dhan1270,Dhangu
+Gaalpu,dhg-gaa,dialect,,
+Riraidjango,dhg-rir,dialect,,
+Wanʔguri,dhg-wan,dialect,,
+Djalendi,dhl,subgroup,dhal1245,Dhalandji
+Dal'gari,dhr,subgroup,dhar1247,Dhargari
+Dhurga,dhu,subgroup,dhur1239,Dhurga
+Walbanga,dhu-wal,dialect,,
+Wandanian,dhu-wan,dialect,,
+Dayerrie,dif,subgroup,dier1241,Dieri
+Digo,dig,language,digo1243,Digo
+Quemayá,dih,subgroup,kumi1248,Tipai
+Djimba,djb,subgroup,djin1252,Djinba
+Murinyuwan,djd,subgroup,djam1255,Jaminjung-Ngaliwurru
+Ngaliwurru,djd-nga,dialect,,
+Djinang,dji,language,djin1253,Djinang
+Djeebbana,djj,subgroup,djee1236,Djeebbana
+Djiwarli,djl,language,djiw1240,Djiwarli-Thiin
+Jawan,djn,subgroup,djau1244,Jawoyn
+Djawi,djw,subgroup,djaw1238,Djawi
+Dolgan,dlg,subgroup,dolg1241,Dolgan
+Ndendeule,dne,language,nden1249,Ndendeule
+Dogon,dogn,subgroup,,
+Dorhosye,dos,subgroup,dogo1295,Dogosé
+Dravidian,drav,subgroup,,
+Paakantyi,drl,language,darl1243,Paakantyi
+Gu:rnu,drl-kul,dialect,,
+Wilyaali,drl-wil,dialect,,
+Drual Subgroup,drua,subgroup,,
+Woru Kan,dtk-sag,dialect,,
+Duala,dua,language,dual1243,Duala
+Duwal,duj,subgroup,dhuw1249,Dhuwal
+Djabu,duj-dja,dialect,,
+Duungooma,dux,language,duun1242,Duungooma
+Dyaberdyaber,dyb,language,dyab1238,Dyaberdyaber
+Jukun,dyd,subgroup,dyug1238,Dyugun
+Djan-Gadi,dyn,subgroup,dyan1250,Dyangadi
+Jula,dyu,subgroup,dyul1238,Dyula
+Dyaabugay,dyy,language,dyaa1242,Dyaabugay
+Eastern Apachean Athabaskan,eapa,subgroup,,
+Eastern Pomo,easn,subgroup,,
+Eastern Berber,eber,subgroup,,
+Embu,ebu,language,embu1241,Embu
+East,echa,subgroup,,
+East Cree,ecre,subgroup,,
+East,ecus,subgroup,,
+Eastern Eastern Mande,eemd,subgroup,,
+Eastern Iranian,eira,subgroup,,
+Modern Greek,ell,subgroup,mode1248,Modern Greek
+Elamite,elx,subgroup,elam1244,Elamite
+Eastern Miwok,emiw,subgroup,,
+Eastern Mande,emnd,subgroup,,
+"South Alaska ""Eskimo""",ems,subgroup,paci1278,Pacific Gulf Yupik
+Eastern MSA,emsa,subgroup,,
+Eastern Muskogean,emsk,subgroup,,
+Markweeta,enb,language,mark1255,Markweeta
+"Enets, Forest",enf,language,fore1265,Forest Enets
+English,eng,language,stan1293,English
+American English,eng-amr,dialect,,
+British English,eng-bri,dialect,,
+"Enets, Tundra",enh,language,tund1254,Tundra Enets
+Eastern Nilotic,enil,subgroup,,
+East Papuan,epap,subgroup,,
+Ese'eha,ese,subgroup,esee1248,Ese Ejja
+"""Eskimo""",esi,subgroup,nort2943,North Alaskan Inupiatun
+Seward Peninsula Inupiaq,esk,language,nort2945,Seward Alaska Inupiatun
+Eskimo-Aleut,eska,subgroup,,
+Eskimoan,eski,subgroup,,
+St. Lawrence Island Yupik,ess,subgroup,cent2128,Central Siberian Yupik
+Viro,est,subgroup,,
+Central Alaskan Yup'ik,esu,language,cent2127,Central Alaskan Yupik
+Eastern Sudanic,esud,subgroup,,
+Even,eve,subgroup,even1260,Even
+Evenki,evek,subgroup,,
+Solon,evn,subgroup,even1259,Evenki
+Yaounde,ewo,subgroup,ewon1239,Ewondo
+Extremaduran,ext,subgroup,extr1243,Extremaduran
+Eyak,eya,subgroup,eyak1241,Eyak
+Eyak,eyak,subgroup,,
+Fulbe,ffm,subgroup,maas1239,Maasina Fulfulde
+Suomi,fin,subgroup,finn1318,Finnish
+Fipa,fip,language,fipa1238,Fipa
+Flathead,fla,dialect,kali1308,Kalispel-Pend d'Oreille
+Kalispel,fla-kal,dialect,,
+Serrano-Kitanemuk,flcf,subgroup,,
+Formosan,form,subgroup,,
+French,fra,language,stan1290,French
+Toucouleur,fuc-tou,dialect,,
+Ober-Ungarisch- und Finnische Nation,fugr,subgroup,,
+Fula,fula,subgroup,,
+Friulian,fur,language,friu1240,Friulian
+Fur,furr,subgroup,,
+Sokoto,fuv-sok,dialect,,
+Kaitidji,gbb,subgroup,kayt1238,Kaytetye
+Garrwa,gbc,language,garr1260,Garrwan
+Wanyi,gbc-wan,language,,
+Karadjeri,gbd,language,kara1476,Karadjeri
+Gbe,gbex,subgroup,,
+Gagadju,gbu,language,gaga1251,Gaagudju
+Ganggalida,gcd,language,gang1267,Ganggalida
+Gadjerong,gdh,subgroup,gadj1243,Gajirrabeng
+Georgian,geor,subgroup,,
+Germanic,germ,subgroup,,
+German,gern,subgroup,,
+Galimbamu,ggd,subgroup,guga1239,Gugadj
+Aghu Tharnggalu,ggr,language,aghu1254,Aghu Tharnggalu
+Kwitj,gia,subgroup,kitj1240,Kitja
+Guluwarin,gia-kul,dialect,,
+Gyitska'n,git,subgroup,gitx1241,Gitxsan
+Guang,gjn,subgroup,gonj1241,Gonja
+Birar,gld,subgroup,nana1257,Nanai
+Samagir,gld-sam,dialect,,
+"Gaelic, Irish",gle,language,iris1253,Irish
+Galician,glg,subgroup,gali1258,Galician
+Manx,glv,language,manx1243,Manx
+Gulyan,glyn,subgroup,,
+Gamberre,gma,subgroup,gamb1251,Gambera
+Mycenaean Greek,gmy,language,myce1241,Achaean Greek
+Guanche,gnc,subgroup,guan1277,Guanche
+Goonien,gni,subgroup,goon1238,Gooniyandi
+Gangulu,gnl,language,gang1268,Gangulu
+Gumatj,gnn,subgroup,guma1253,Gumatj
+Mangalili,gnn-man,dialect,,
+Gooreng Gooreng,gnr,subgroup,gure1255,Gureng Gureng
+Goeng,gnr-goe,dialect,,
+Chiriguano,gnw,language,west2640,Western Bolivian Guaraní
+Gogo,gog,language,gogo1263,Gogo
+Gogo (G.10),gogo,subgroup,,
+Gothic,got,language,goth1244,Gothic
+Gorowa,gow,language,goro1270,Gorowa
+Greater Kichéan,gqui,subgroup,,
+Arcado-Cyprian,grc-arc,dialect,,
+Guarijío,guaj,subgroup,,
+Guanche,guan,subgroup,,
+Gurindji,gue,subgroup,guri1247,Gurindji
+Malgin,gue-mal,dialect,,
+Kupapuyngu,guf,subgroup,gupa1247,Gupapuyngu
+Kupapuyngu,guf-gup,dialect,,
+Madarrpa,guf-mad,dialect,,
+Manggalili,guf-man,dialect,,
+"Guaraní, Paraguayan",gug,subgroup,para1311,Paraguayan Guaraní
+Guarani,gui,subgroup,east2555,Eastern Bolivian Guaraní
+Saurashtri,guj-ptn,dialect,,
+Mendeya,guk,subgroup,gumu1244,Northern Gumuz
+Mbyá Guaraní,gun,subgroup,mbya1239,Mbyá Guaraní
+Nguni (S.40),guni,subgroup,,
+Gunwingguan Family,gunw,subgroup,,
+Mayali,gup,subgroup,gunw1252,Bininj Kun-Wok
+Gurma,gurm,subgroup,,
+Kisii,guz,subgroup,gusi1247,Gusii
+Kuku-Yalanji,gvn,language,kuku1273,Kuku-Yalanji
+Koko Bididji,gvn-bid,dialect,,
+Kuyani,gvy,language,guya1249,Guyani
+Loucheux,gwi,subgroup,gwic1235,Gwich'in
+Western Kutchin,gwi-ala,dialect,,
+Guwamu,gwu,language,guwa1243,Guwamu
+Gunin/Kwini,gww,subgroup,kwin1241,Kwini
+Kayardild,gyd,language,kaya1319,Kayardild
+Gungabula,gyf,subgroup,gung1248,Gungabula
+Guaráyo,gyr,language,guar1292,Guarayu
+Gunya,gyy,dialect,guny1241,Gunya
+Han-Kutchin,haa,subgroup,hann1241,Han
+Haidan Isolate,haid,subgroup,,
+Han-Kutchin,hank,subgroup,,
+Dene,harc,subgroup,,
+Haisla,has,language,hais1244,Haisla
+Eastern Hausa,hau-eas,dialect,,
+North Hausa,hau-nor,dialect,,
+Hausa,haus,subgroup,,
+Western Hausa,hau-wes,dialect,,
+Kaigani,hax,subgroup,sout2956,Southern Haida
+Haya,hay,language,haya1250,Haya
+Huichol,hch,subgroup,huic1243,Huichol
+Masset,hdn,subgroup,nort2938,Northern Haida
+Hehe,heh,language,hehe1240,Hehe
+Heiltsuk-Oowekyala,hei,subgroup,heil1246,Heiltsuk-Oowekyala
+Oowekeeno,hei-oow,dialect,,
+Hellenic,hell,subgroup,,
+Hemba,hem,language,hemb1242,Hemba-Yazi
+Herero,her,language,here1253,Herero
+Mbandieru,her-mba,dialect,,
+Herero (R.30),hero,subgroup,,
+Hidatsa,hid,language,hida1246,Hidatsa
+Innoko,hoi,subgroup,holi1241,Holikachuk
+Pueblo,hop,subgroup,hopi1249,Hopi
+Pueblo,hopi,subgroup,,
+Hadza,hts,language,hadz1240,Hadza
+Wastekan,huas,subgroup,,
+Huave,huav,subgroup,,
+|Hua,huc,subgroup,hoaa1235,Amkoe
+Huave,hue,subgroup,sanf1258,San Francisco del Mar Huave
+Hoopa,hup,subgroup,hupa1239,Hupa-Chilula
+Holkomelem,hur,subgroup,halk1245,Halkomelem
+Musqueam,hur-mus,dialect,,
+"Huastec, Veracruz",hus,subgroup,huas1242,Huastec
+Wave,huv,language,sanm1287,San Mateo del Mar Huave
+Wave,hve,language,sand1278,San Dionisio del Mar Huave
+Wave,hvv,language,sant1422,Santa María del Mar Huave
+Armani,hye,subgroup,nucl1235,Eastern Armenian
+Sauk-Fox-Kickapoo,iaam,subgroup,,
+Uwaidja,ibd,subgroup,iwai1244,Iwaidja
+Idaxo,ida-ida,dialect,,
+Indo-Portuguese,idb,subgroup,dama1278,Daman-Diu Portuguese
+Indo-European,ieur,subgroup,,
+Koto,igb-kot,dialect,,
+"Inuktitut, Eastern Canadian",ike,subgroup,east2534,Eastern Canadian Inuktitut
+Canadian Inuit,ikt,subgroup,west2618,Western Canadian Inuktitut
+Shukulumbwe,ilb,subgroup,ilaa1246,Ila
+Indo-Aryan,inda,subgroup,,
+Ingalik,ing,language,dege1248,Degexit'an
+Ingalik Cluster,inga,subgroup,,
+Ingus,inh,subgroup,ingu1240,Ingush
+Koyukon-Ingalik,inko,subgroup,,
+Interior Salish,insa,subgroup,,
+Inupiaq,inui,subgroup,,
+Chiwere,iow,language,iowa1245,Iowa-Oto
+Iranian,iran,subgroup,,
+Mbulunge,irk,subgroup,iraq1241,Iraqw
+Iruḷa,iru,subgroup,irul1243,Irula of the Nilgiri
+Kasuba,iru-nor,dialect,,
+Istriot,ist,language,istr1244,Istriot
+Isu,isu,subgroup,isum1240,Isu (Menchum Division)
+Italian,ita,subgroup,ital1282,Italian
+Itelmen,itl,language,itel1242,West Itelmen
+Itzaj,itz,language,itza1241,Itzá
+Aguatec-Ixil,ixil,subgroup,,
+"Ixil, San Juan Cotzal",ixl,subgroup,ixil1251,Ixil
+Izhora,izh,subgroup,ingr1248,Ingrian
+Aniula,jao,subgroup,yany1243,Yanyuwa
+Yan-Nhangu,jay,subgroup,yann1237,Nhangu
+Judeo-Berber,jbe,language,jude1262,Judeo-Berber
+Eastern Tol,jic,language,toll1241,Tol
+Jingulu,jig,language,djin1251,Jingulu
+Yangman,jng,subgroup,yang1288,Yangman
+Malinké,jod,subgroup,woje1238,Wojenaka
+Japanese,jpn,language,nucl1643,Japanese
+"Arabic, Judeo-Yemeni",jye,subgroup,jude1267,Judeo-Yemeni Arabic
+Qarapulpaqs,kaa,subgroup,kara1467,Kara-Kalpak
+West Greenlandic,kal,language,kala1399,Kalaallisut
+Kalenjin,kale,subgroup,,
+East Greenlandic,kal-eas,language,,
+West Greenlandic,kal-wes,language,,
+Kekamba,kam,subgroup,kamb1297,Kamba (Kenya)
+Madrassi,kan,subgroup,nucl1305,Kannada
+Kanyara,kany,subgroup,,
+Kartu,kard,subgroup,,
+Quoratean,kark,subgroup,,
+Qazaqi,kaz,subgroup,kaza1248,Kazakh
+Kalarko,kba,language,kala1379,Kalarko-Mirniny
+Kabardian,kbd,language,kaba1278,Kabardian
+Beslenei,kbd-bes,dialect,,
+Cherkes,kbd-che,dialect,,
+Kuban,kbd-kub,dialect,,
+Malka,kbd-mal,dialect,,
+Mozdok,kbd-moz,dialect,,
+Kaantyu,kbe,subgroup,kanj1260,Kanju
+Khanty,kca,language,khan1273,Kazym-Berezover-Suryskarer Khanty
+Kanjobalan-Chujean,kchu,subgroup,,
+Kami,kcu,language,kami1256,Kami (Tanzania)
+Birrpayi,kda,language,wori1245,Worimi
+Janggundjara,kdd,subgroup,yank1247,Yankunytjatjara
+Chimakonde,kde,subgroup,mako1251,Makonde
+Karamojong,kdj,language,kara1483,Karamojong
+Dodos,kdj-dod,dialect,,
+Jie,kdj-jie,dialect,,
+Karaïm,kdr,subgroup,kara1464,Karaim
+Kerewe,ked,subgroup,kere1283,Kerewe
+"Keres, Eastern",kee,language,east1472,Eastern Keres
+Qeqchí,kek,language,kekc1242,Kekchí
+Cakchiquel-Pocomchi,kekc,subgroup,,
+Kela,kel,language,kela1254,Kela (Democratic Republic of Congo)
+Kele (B.20),kele,subgroup,,
+Keres,kere,subgroup,,
+Yenisei Ostyak,ket,subgroup,kett1243,Ket
+Khurgi,kfa,subgroup,koda1255,Kodava
+Kurumba,kfi,language,kann1253,"Kurumba, Kannada"
+Kunggari,kgl,language,kung1258,Kunggari
+Coombyngura,kgs,subgroup,kumb1268,Kumbainggar
+Halh Mongolian,khk,subgroup,halh1238,Halh Mongolian
+Khoe,khoe,subgroup,,
+Hottentoten,khoi,subgroup,,
+Kickapoo,kic,language,kick1244,Kickapoo
+Kibeet,kie,subgroup,kibe1241,Kibet
+Kitsai,kii,subgroup,kits1249,Kitsai
+Kikuyu,kik,subgroup,kiku1240,Kikuyu
+Karagas,kim,language,kara1462,Taiga Sayan Turkic
+Rwanda,kin,language,kiny1244,Kinyarwanda
+Kingkel,king,subgroup,,
+Kiowan,kio,subgroup,kiow1266,Kiowa
+Kiowa,kiow,subgroup,,
+Kirghiz,kir,language,kirg1245,Kirghiz
+Ikibungu,kiv,subgroup,kimb1242,Kimbu
+Conob,kjb,subgroup,qanj1241,Q'anjob'al
+Khakhass,kjh,subgroup,khak1248,Khakas
+Beltir,kjh-bel,dialect,,
+Kyzyl,kjh-kyz,dialect,,
+Sagaj,kjh-sag,dialect,,
+Shor,kjh-sho,dialect,,
+Kun'djan,kjn,subgroup,kunj1245,Kunjen
+Oykangand,kjn-oyk,dialect,,
+"Keres, Western",kjq,subgroup,west2632,Western Keres
+Eastern Kewa,kjs,subgroup,east2516,East Kewa
+Kashaya,kju,language,kash1280,Kashaya
+Kagulu,kki,language,kagu1239,Kagulu
+Kungkara,kkp,subgroup,gugu1254,Gugubera
+Guguyimidjir,kky,language,gugu1255,Guugu Yimidhirr
+Nahani,kkz,subgroup,kask1239,Kaska
+Klamath-Modoc,kla,language,klam1254,Klamath-Modoc
+Quiligua,klb,subgroup,kili1268,Kiliwa
+Gamilaraay,kld,subgroup,gami1243,Yuwaalaraay-Gamilaraay
+Koinberi,kld-koi,dialect,,
+Weraeria,kld-wer,dialect,,
+Ualari,kld-yua,dialect,,
+Yuwaalaraay,kld-yuw,dialect,,
+Kulango,klgo,subgroup,,
+Arghu Turkic,klj,subgroup,turk1303,Khalaj Turkic
+Klamath,klmo,subgroup,,
+Nandi,kln,subgroup,kale1246,Kalenjin
+Mbundu,kmb,language,kimb1241,Kimbundu
+"Kurdish, Northern",kmr,language,nort2641,Northern Kurdish
+Khorasan Turkic,kmz,language,khor1269,Khorasan Turkic
+Congo,kng,subgroup,koon1244,South-Central Koongo
+Conob,knj,subgroup,west2635,Akateko
+Marathi of Central and North Konkan,knn,subgroup,konk1267,Konkan Marathi
+!Xung,knw,subgroup,kung1261,North-Central Ju
+Kanyok,kny,language,kany1247,Kanyok
+Kanyara,knya,subgroup,,
+Koyo,koh,subgroup,koyo1242,Koyo
+Komi-Permyak,koi,language,komi1269,Komi-Permyak
+Koman,komn,subgroup,,
+Konjo,koo,language,konz1239,Konzo
+Ikuta,koq,subgroup,kota1274,Kota (Gabon)
+Korean,kor,subgroup,kore1280,Korean
+Korni,korn,subgroup,,
+Ten'a,koy,subgroup,koyu1237,Koyukon
+Kpalaga,kplg,subgroup,,
+Komi Zyryan,kpv,subgroup,komi1268,Komi-Zyrian
+Nymylan,kpy,subgroup,kory1246,Koryak
+Kupsabiny,kpz-sab,dialect,,
+Chikaonde,kqn,subgroup,kaon1241,Kaonde
+!Ora,kqz,subgroup,kora1292,Korana
+Karachay,krc,language,kara1465,Karachay-Balkar
+Balkar,krc-bal,dialect,,
+Koraga,krga,subgroup,,
+Kerek,krk,subgroup,kere1280,Kerek
+Karelian,krl,language,kare1335,Karelian
+Karna Subgroup,krna,subgroup,,
+Sambara,ksb,subgroup,sham1280,Shambala
+Osage,ksk,language,kans1243,Kansa
+Kusu,ksv,language,kusu1252,Kusu
+Kokata,ktd,subgroup,koka1244,Kokata
+Kalkutung,ktg,language,kalk1246,Kalkatungu
+Ju|'hoan,ktz,language,juho1239,South-Eastern Ju
+Kwanjama,kua,subgroup,kuan1247,Kuanyama
+Kuliak,kulk,subgroup,,
+Kulin,kuln,subgroup,,
+Kumyk,kum,subgroup,kumy1244,Kumyk
+Baaden,kun,subgroup,kuna1268,Kunama
+Kurdish,kur,subgroup,kurd1259,Kurdish
+Kurdish,kurd,subgroup,,
+Kuri,kuri,subgroup,,
+Kutenai,kut,language,kute1249,Kutenai
+Kootenay,kute,subgroup,,
+Upper Kuskokwim,kuu,language,uppe1438,Upper Kuskokwim
+Peedong,kux,subgroup,kuka1246,Kukatja
+Kunggara,kvs,language,kung1262,Kunggara
+Kwa,kwaa,subgroup,,
+Kwangwa (K.40),kwan,subgroup,,
+Kwakiutl,kwk,language,kwak1269,Kwak'wala
+Kwadi,kwz,language,kwad1244,Kwadi
+Quoratean,kyh,subgroup,karo1304,Karuk
+Lakantún,lac,language,laca1243,Lacandon
+Langi,lag,language,lang1320,Langi
+Lambia,lai,subgroup,lamb1272,Lambya
+Bay Pama Subgroup,lamc,subgroup,,
+Samic,lapp,subgroup,,
+“Lettisch” ,lav,subgroup,latv1249,Latvian
+Lak,lbe,subgroup,lakk1252,Lak
+Lamalama,lby,subgroup,lamu1254,Lamalama
+Lardil,lbz,language,lard1243,Lardil
+Bisa,leb-bis,dialect,,
+Chuncho Aleniano,lec,subgroup,leco1242,Leco
+Chilenje,leh,subgroup,lenj1248,Lenje
+Lega-Kalanga (D.20),leka,subgroup,,
+Lencan,lenc,subgroup,,
+Serkin,len-ser,language,,
+Lezgian,lez,language,lezg1247,Lezgian
+Ligwi,lig,subgroup,ligb1244,Ligbi
+Lillooet,lil,language,lill1248,Lillooet
+Lingala,lin,subgroup,ling1263,Kinshasa Lingala
+Lithuanian,lit,language,lith1251,Lithuanian
+Dolomite,lld,subgroup,ladi1250,Ladin
+Miwok (Lake),lmw,subgroup,lake1258,Lake Miwok
+Latarngit,lnj,subgroup,leni1238,Linngithigh
+Otuho,lot,subgroup,otuh1238,Otuho
+Lozi,loz,language,lozi1239,Lozi
+Iroquois Proper,lptd,subgroup,,
+Laragiya,lrg,subgroup,lara1258,Laragia
+Lusengo,lse,language,luse1252,Lusengo
+Letzburgisch,ltz,subgroup,luxe1241,Moselle Franconian
+Luba (L.30),luba,subgroup,,
+Luganda,lug,subgroup,gand1255,Ganda
+Luiseño,lui,language,luis1253,Luiseno-Juaneño
+Luo,luo,subgroup,luok1236,Luo (Kenya and Tanzania)
+Puget Sound Salish,lut,subgroup,lush1252,Northern Lushootseed
+Luyia,luyi,subgroup,,
+Luyana,lyn,language,luya1241,Luyi
+Samurzakan-Zugdidi,lzz-sam,dialect,,
+Huautla-Mazatlán Masateko,maa,language,sanj1286,San Jerónimo Tecóatl Mazatec
+Maba,maba,subgroup,,
+Maghrebine,magh,subgroup,,
+Maiduan,maid,subgroup,,
+Jalapa Masateko,maj,language,jala1237,Jalapa De Díaz Mazatec
+Malayalam,mal,subgroup,mala1464,Malayalam
+Mandan,mann,subgroup,,
+Masateko,maq,subgroup,chiq1250,Chiquihuitlán Mazatec
+Marngu,marn,subgroup,,
+Maasai,mas,language,masa1300,Masai
+Masa Group,masa,subgroup,,
+Arusa,mas-aru,dialect,,
+Masaba-Luyia (J.30),masb,subgroup,,
+Pirinda,mat,subgroup,sanf1262,San Francisco Matlatzinca
+Huautla-Mazatlán Masateko,mau,subgroup,huau1238,Huautla Mazatec
+Makua (P.30),maua,subgroup,,
+Mampelle,maw,subgroup,mamp1244,Mampruli
+Mayan,maya,subgroup,,
+Masawa,maz,language,cent2144,Central Mazahua
+Masateko,mazn,subgroup,,
+Mbunda,mck,language,mbun1249,Mbunda
+Micmac,mcmc,subgroup,,
+Mangbutu,mdk,language,mang1396,Mangbutu
+Delaware,mdmb,subgroup,,
+Maarra,mec,subgroup,mara1385,Marra
+Mangarla,mem,subgroup,mang1383,Mangala
+Mende,men,language,mend1266,Mende (Sierra Leone)
+Miriwoong,mep,subgroup,miri1266,Miriwung
+Meru,meru,subgroup,,
+Menominee,mez,subgroup,meno1252,Menominee
+Mefele,mfj-mef,dialect,,
+Muhura,mfj-muh,dialect,,
+Sirak,mfj-ser,dialect,,
+Shugule,mfj-shu,dialect,,
+Marithiel,mfr,language,mari1424,Marithiel
+Lund,mfv-lun,dialect,,
+Mayo,mfy,dialect,mayo1264,Mayo
+Icimambwe,mgr-mam,dialect,,
+Northern Ojibwe,mgul,subgroup,,
+Kimatengo,mgv,subgroup,mate1258,Matengo
+Matumbi,mgw,subgroup,matu1259,Matumbi
+Mbugwe,mgz,language,mbug1242,Mbugwe
+Mochó,mhc,dialect,moch1257,Mocho
+Ma'a,mhd,subgroup,mbug1240,Mbugu
+Maraura,mhg,subgroup,marg1251,Margu
+Mandan,mhq,subgroup,mand1446,Mandan
+Piankishaw,mia,subgroup,miam1252,Miami
+Miigmao,mic,subgroup,mikm1235,Mi'kmaq
+Miccosukee,mik,subgroup,mika1239,Mikasuki
+Padang,min,subgroup,mina1268,Minangkabau
+Mije,mir,language,isth1238,Isthmus Mixe
+Mirning,mirn,subgroup,,
+Missouri River,misv,subgroup,,
+Mixtecan Macro-Family,mixn,subgroup,,
+Misteko,mixt,subgroup,,
+Miyal Subgroup,miyl,subgroup,,
+Miyan,miyn,subgroup,,
+Mixe-Zoquean,mizo,subgroup,,
+Konkow,mjd,language,nort2951,Northwest Maidu
+Makaa-Njem (A.80),mknj,subgroup,,
+"Mixed Language, Songhay-Berber",mlsb,subgroup,,
+Maltese,mlt,subgroup,malt1254,Maltese
+Masawa,mmc,subgroup,mich1246,Michoacán Mazahua
+Manchu,mnc,subgroup,manc1252,Manchu
+Mande,mnde,subgroup,,
+Menominee,mnmn,subgroup,,
+Mono,mnr,language,mono1275,Mono (USA)
+jugra,mns,subgroup,mans1258,Northern Mansi
+Micoolan,mnt,subgroup,mayk1239,Maykulan
+Innu-Aimun,moe,subgroup,mont1268,Montagnais
+Central Montagnais,moe-cen,language,,
+Eastern Montagnais,moe-eas,dialect,,
+Western Montagnais,moe-wes,dialect,,
+Mohawk,moh,subgroup,moha1258,Mohawk
+Momo,momo,subgroup,,
+Mongolic,mong,subgroup,,
+Mopán,mop,language,mopa1243,Mopán Maya
+Mooré,mos,subgroup,moss1236,Mossi
+Middle Pama,mpam,subgroup,,
+Djiramo,mpb,subgroup,mull1237,Mullukmulluk
+Mungerry,mpc,subgroup,mang1381,Mangarrayi
+Maxineri,mpd,dialect,mach1268,Machinere
+Gunmarung,mph,subgroup,maun1240,Mawng
+Jigalong,mpj,subgroup,mart1256,Martu Wangka
+Maori,mri,language,maor1246,Maori
+Yaran,mrj-yar,dialect,,
+Mirili Subgroup,mrli,subgroup,,
+Innu,mtgn,subgroup,,
+Nocten,mtp,dialect,wich1262,Wichí Lhamtés Nocten
+Maritime Tsimshian,mtsi,subgroup,,
+Northern Muskogean,mus,subgroup,cree1270,Creek
+Yaakua,muu,subgroup,yaak1241,Yaaku
+Mbara,mvl,subgroup,mbar1254,Mbara-Yanga
+Mudbura,mwd,language,,
+Murinkura,mwf,subgroup,murr1258,Murriny Patha
+Kala Lagaw,mwp,subgroup,kala1377,Kala Lagaw Ya
+Saibai,mwp-kal,dialect,,
+Kaurareg,mwp-kaw,dialect,,
+Jam,mwp-kul,dialect,,
+Main Subgroup Wiradjuric,mwrc,subgroup,,
+Manika,mxc,subgroup,many1258,Manyika
+Mpongwe,mye-mpo,dialect,,
+Maanyan,myh,subgroup,maka1318,Makah
+Mordwinisch,myv,subgroup,erzy1239,Erzya
+Lumasaba,myx,subgroup,masa1299,Masaaba
+Gishu,myx-lug,dialect,,
+Malimba,mzd,language,mali1280,Malimba
+"Mazatec, Ixcatlán",mzi,subgroup,ixca1246,Ixcatlán Mazatec
+Móbima,mzp,subgroup,movi1243,Movima
+Deg,mzw,language,degg1238,Deg
+Balgu,nad,subgroup,nija1242,Nijadali
+Nahuatl (Milpa Alta),nah,subgroup,,
+Ngan'gimerri,nam-nge,dialect,,
+Nama,naq,subgroup,nama1264,Nama (Namibia)
+Damara,naq-dam,dialect,,
+Navaho,nav,subgroup,nava1243,Navajo
+Jaralde,nay,subgroup,narr1259,Narrinyeri
+Portaulun,nay-por,dialect,,
+Ramindjerar,nay-ram,dialect,,
+Tanganekald,nay-tan,dialect,,
+Warki,nay-war,dialect,,
+Ngarinyman,nbj,subgroup,ngar1235,Ngarinman
+Pilinara,nbj-bil,dialect,,
+Ndebele (in South Africa),nbl,subgroup,sout3270,South Transvaal Ndebele
+Galali,nbx,language,ngur1261,Wilson River (Grey Range)
+Bidjara,nbx-bid,dialect,,
+Dhiraila,nbx-dhi,dialect,,
+Garandala,nbx-gar,dialect,,
+Galali,nbx-kal,dialect,,
+Eromarra,nbx-nga,dialect,,
+Ngurawarla,nbx-ngu,dialect,,
+Bundhamara,nbx-pun,dialect,,
+Wongkumara,nbx-won,dialect,,
+Yarumarra,nbx-yar,dialect,,
+Northern Caddoan,ncad,subgroup,,
+Nisga'a,ncg,language,nisg1240,Nisga'a
+Northern Nawa,ncj,dialect,nort2957,Northern Puebla Nahuatl
+Nagara,nck,subgroup,naka1260,Nakara
+North,ncus,subgroup,,
+Sofala,ndc,subgroup,ndau1241,Ndau
+Oshindonga,ndo,subgroup,ndon1254,Ndonga
+Ndoro,ndor,subgroup,,
+Neghidal,neg,subgroup,negi1245,Negidal
+Northern Eastern Iranian,neir,subgroup,,
+Nez Perce,nez,language,nezp1238,Nez Perce
+Nafaanra,nfaa,subgroup,,
+Ngbaka,nga,language,ngba1285,Ngbaka Minagende
+Ngargo,ngar,subgroup,,
+Ngombe,ngc,subgroup,ngom1268,Ngombe (Democratic Republic of Congo)
+N||ng,ngh,language,nngg1234,N||ng
+||Ng!ke,ngh-ngk,dialect,,
+Nass-Gitksan,ngit,subgroup,,
+Boun,ngk,subgroup,ngal1292,Ngalkbun
+Ngult Subgroup,nglt,subgroup,,
+Ngwo,ngn,language,ngwo1241,Ngwo
+Ngwo,ngn-ngw,dialect,,
+Kisutu,ngo,subgroup,,
+Ngura Subgroup,ngra,subgroup,,
+Ngumbin,ngum,subgroup,,
+Eastern Nawa,nhe,dialect,east2538,Eastern Huasteca Nahuatl
+Noanamaronga,nhf,subgroup,nhuw1239,Nhuwala
+Isthmus,nhk,dialect,isth1240,Isthmus-Cosoleacaque Nahuatl
+Central Nawa,nhn,dialect,cent2132,Tlaxcala-Puebla-Central Nahuatl
+Isthmus,nhp,subgroup,isth1241,Isthmus-Pajapan Nahuatl
+Naro,nhr,language,naro1249,Naro
+Western Nawa,nhw,dialect,west2624,Western Huasteca Nahuatl
+Isthmus,nhx,dialect,isth1242,Isthmus-Mecayapan Nahuatl
+Northern Nawa,nhy,dialect,nort2958,Northern Oaxaca Nahuatl
+Ngandi,nid,language,ngan1295,Ngandi
+Nyiha,nih,language,nyih1240,Nyiha (Tanzania)
+Nilotischen Sprachen,nilc,subgroup,,
+Tawgy,nio,subgroup,ngan1291,Nganasan
+Nivkhi,niv,subgroup,gily1242,Amur Nivkh
+Hema,nix,language,hema1238,Hema
+Nyanja (N.30),njan,subgroup,,
+Ngadjunmaya,nju,language,ngad1258,Ngadjunmaya
+Njyem,njy,language,njye1238,Njyem
+Ngerla,nlr,subgroup,ngar1286,Ngarla on the Ashburton river south of the Hamersley range
+Nyamal,nly,language,nyam1271,Nyamal
+Widugari,nly-wid,dialect,,
+Ndumu,nmd,language,ndum1239,Ndumu
+Ngumba,nmg,language,kwas1243,Kwasio
+!Xóõ,nmn,subgroup,huaa1248,East Taa
+/Auni,nmn-aun,dialect,,
+Nimanburru,nmp,subgroup,nima1245,Nimanbur
+Karangura,nmv,language,ngam1265,Ngamini-Yarluyandi-Karangura
+Pijikala,nna,subgroup,nyan1301,Nyangumarta
+Peedong,nna-bid,dialect,,
+Nandi,nnb,subgroup,nand1264,Nande
+Narangga,nnr,language,naru1238,Narungga
+Doora,nnv,subgroup,nugu1241,Nugunu (Australia)
+Yangkaal,nny,language,nyan1300,Yangkaal
+Noghay,nog,language,noga1249,Nogai
+Nootka,noo,subgroup,noot1239,Nootka
+Nitinat,noo-nit,dialect,,
+Northern Pama,npam,subgroup,,
+Norman Pama,npma,subgroup,,
+Nara,nrb,language,nara1262,Nara
+Ngarluma,nrl,language,ngar1287,Ngarluma
+Northern Group,nrur,subgroup,,
+Gnumbu,nrx,subgroup,ngur1260,Ngurmbur
+Nilo-Saharan,nsah,subgroup,,
+Chinsenga,nse,subgroup,nsen1242,Nsenga
+Nass-Gitksan,nsg,subgroup,ngas1238,Ngasa
+Eastern Naskapi,nsk,subgroup,nask1242,Naskapi
+Eastern Naskapi,nsk-eas,language,,
+Naskapi,nskp,subgroup,,
+Western Naskapi,nsk-wes,language,,
+"Sotho, Northern",nso,language,pedi1238,Pedi
+Kopa,nso-kop,dialect,,
+Northern Sotho,nsot,subgroup,,
+"Miwok, Northern Sierra",nsq,subgroup,nort2968,Northern Sierra Miwok
+Northern Tiwa,ntiw,subgroup,,
+Ngaanyatjarra,ntj,language,ngaa1240,Ngaanyatjarra
+Soko,nto-sok,dialect,,
+Nubian,nubn,subgroup,,
+Nungali,nug,subgroup,nung1291,Nungali
+Nupe,nupe,subgroup,,
+Wubuy ,nuy,language,nung1290,Wubuy
+Northern Wakashan,nwak,subgroup,,
+Northwestern Western Mande,nwwm,subgroup,,
+Nindi,nxi,subgroup,nind1242,Nindi
+Nyanja,nya,language,nyan1308,Nyanja
+Nyakyusa (M.30),nyak,subgroup,,
+Nyang,nyan,subgroup,,
+Peta,nya-pet,dialect,,
+Giryama,nyf,language,giry1241,Giryama
+Wanji,nyh,subgroup,nyig1240,Nyigina
+Nyika (E.40),nyik,subgroup,,
+Nyamwezi,nym,language,nyam1276,Nyamwezi
+Toode-nunjer,nys-bal,dialect,,
+Juat,nys-jua,dialect,,
+Kalamai,nys-kal,dialect,,
+Kaniyan,nys-kan,dialect,,
+Koreng,nys-kor,dialect,,
+Minang,nys-min,dialect,,
+Nyakinyaki,nys-nya,dialect,,
+Pibelman,nys-pib,dialect,,
+Pinjarra,nys-pin,dialect,,
+Wardandi,nys-war,dialect,,
+Weal,nys-wii,dialect,,
+Wudjari,nys-wud,dialect,,
+Nyawaygi,nyt,language,nyaw1247,Nyawaygi
+Nyungwe,nyu,language,nyun1248,Nyungwe
+Nyungar,nyun,subgroup,,
+Nyulnyul,nyv,subgroup,nyul1247,Nyulnyul
+Nganyaywana,nyx,language,ngan1296,Nganyaywana
+Nyakyusa-Ngonde,nyy,language,nyak1260,Nyakyusa-Ngonde
+Nama,nza-nam,dialect,,
+Uilta,oaa,subgroup,orok1265,Orok
+Oroć,oac,subgroup,oroc1248,Oroch
+Oceanic,ocea,subgroup,,
+Okwilteko,ocu,language,atzi1235,Atzingo Matlatzinca
+English based,oebc,subgroup,,
+French based,ofbc,subgroup,,
+Ojibwa,ojb,subgroup,nort2961,Northwestern Ojibwa
+Ojibwa,ojc,subgroup,cent2136,Central Ojibwa
+Ojibwa,ojg,subgroup,east2542,Eastern Ojibwa
+Ojibwayan,ojib,subgroup,,
+Ojibwa,ojs,subgroup,seve1240,Severn Ojibwa
+Saulteaux,ojw,language,west1510,Western Ojibwa
+Colville-Okanagan,oka,subgroup,okan1243,Okanagan
+Okiek,oki,language,okie1245,Okiek
+Old Algonquin,olda,subgroup,,
+Omaha-Ponca,oma,language,omah1247,Omaha-Ponca
+Minoan,omn,language,mino1236,Minoan
+Omotic,omot,subgroup,,
+Oneida,one,language,onei1249,Oneida
+Onandaga,ono,subgroup,onon1246,Onondaga
+Pima-Pápago,ood,dialect,toho1245,Tohono O'odham
+Oregon,oreg,subgroup,,
+Oromo,orom,subgroup,,
+Osage,osa,language,osag1243,Osage
+Ossetian,oss,subgroup,iron1242,Iron Ossetian
+Oto-Manguean Phylum,otma,subgroup,,
+Otomian,otmn,subgroup,,
+Otomi,otom,subgroup,,
+Otopamean,otop,subgroup,,
+Ottawa,otw,language,otta1242,Ottawa
+!O !Kung,oun,subgroup,oung1238,!O!ung
+Palaik,palh,subgroup,,
+Pame,pame,subgroup,,
+Northern Paiute,pao,language,nort2954,Northern Paiute
+Panamint,par,language,pana1305,Panamint
+Grand Pawnee,paw,subgroup,pawn1254,Pawnee
+Chocho-Popoloka,pbe,language,mezo1235,Mezontla Popoloca
+Popoloca,pbf,subgroup,coyo1236,Coyotepec Popoloca
+Pangwa,pbr,language,pang1287,Pangwa
+Central Pame,pbs,language,cent2145,Central Pame
+Chocho-Popoloka,pca,language,sant1454,Santa Inés Ahuatempan Popoloca
+Picard,pcd,subgroup,pica1241,Picard
+Pacahuara,pcp,language,paca1246,Pacahuara
+Pomo (Eastern),peb,subgroup,east2545,Eastern Pomo
+Chichimec,pei,subgroup,chic1272,Chichimeca-Jonaz
+Redwood Cañon,pej,subgroup,nort2966,Northern Pomo
+Southern Pomo,peq,language,sout2984,Southern Pomo
+"Farsi, Western",pes,language,west2369,Western Farsi
+"Arabic, Sudanese Creole",pga,language,suda1237,South Sudanese Creole Arabic
+Primitive Irish,pgl,language,,
+Phoenician,phn,subgroup,phoe1239,Phoenician
+Mountain Pima,pia,dialect,pima1248,Pima Bajo
+Pini,pii,subgroup,pini1248,Pini
+Pipil,pipi,subgroup,,
+Pitta Pitta,pit,language,pitt1247,Pitta Pitta
+Pintupi-Luritja,piu,language,pint1250,Pintupi-Luritja
+Mulatara,pjt,subgroup,pitj1243,Pitjantjatjara
+Pitjantjatjara,pjt-pit,dialect,,
+Jangkundjara,pjt-yan,dialect,,
+Pökoot,pko,subgroup,poko1263,Pökoot
+Northern Popoloka,pls,dialect,sanm1301,San Marcos Tlalcoyalco Popoloca
+Northern Pame,pmq,language,nort2984,Northern Pame
+Pame,pmz,subgroup,sout2999,Southern Pame
+Standard Lahnda,pnb,subgroup,west2386,Western Panjabi
+Binnigoora,pnv,subgroup,pini1244,Pinigura
+Panjtjima,pnw,subgroup,pany1241,Panytyima
+Poqomam,poc,language,poqo1253,Poqomam
+Eastern Popoloka,poe,dialect,sanj1285,San Juan Atzingo Popoloca
+Pokomchi,poh,subgroup,poqo1254,Poqomchi'
+Pokomo,poko,subgroup,,
+Polish,pol,subgroup,poli1260,Polish
+Kaszuby,pol-kaz,dialect,,
+Malbork-Lubawa,pol-mal,dialect,,
+Mazovian,pol-maz,dialect,,
+Silesian,pol-sil,dialect,,
+Wielkopolska,pol-wie,dialect,,
+Oat Valley,poo,subgroup,cent2138,Central Pomo
+Popoloca,popn,subgroup,,
+Popoloca,popo,subgroup,,
+Portuguese,por,language,port1283,Portuguese
+Potawatomi,pot,language,pota1247,Potawatomi
+Chocho-Popoloka,pow,language,sanf1264,San Felipe Otlaltepec Popoloca
+Pogolo,poy,language,pogo1243,Pogolo
+Paipai,ppi,subgroup,paip1241,Paipai
+Pipil,ppl,dialect,pipi1250,Pipil
+Popoloca,pps,subgroup,sanl1248,San Luís Temalacayuca Popoloca
+Maliseet-Passamaquoddy,pqm,language,male1292,Malecite-Passamaquoddy
+Arabic,prar,subgroup,,
+preussisch litauische,prg,subgroup,prus1238,Old Prussian
+"Farsi, Eastern",prs,language,dari1249,Dari
+Pintiini,pti,language,pint1251,Pintiini
+Potawatomi,ptwt,subgroup,,
+Piro,purs,subgroup,,
+Central Southern Ojibwe,q19,subgroup,,
+Kings River,q1s,language,,
+Old Algonquin,q54,subgroup,,
+Berber (Figuig),qb8,subgroup,,
+Yegir,qe3,subgroup,,
+Mascouten,qes,language,,
+Erie,qgl,subgroup,,
+Eau,qk6,language,,
+Amangu,qk6-ama,dialect,,
+Mantharda Subgroup,qman,subgroup,,
+Mari Subgroup,qmar,subgroup,,
+Ngayarda Subgroup,qnga,subgroup,,
+Cora,qny,subgroup,,
+Sahaptin,qot,language,,
+Pericú,qp0,subgroup,,
+Tule-Kaweah,qr0,language,,
+Nicola,qs7,subgroup,,
+Wambawamba,qt2,language,,
+Karraba,qt2-bar,dialect,,
+Quiche,quac,subgroup,,
+Quiche,quc,subgroup,kich1262,K'iche'
+Quechu-Maran Subphylum,quch,subgroup,,
+Yungay,quea,subgroup,,
+Northern Chinchay,queb,subgroup,,
+Southern,quec,subgroup,,
+Central Quechua,quew,subgroup,,
+Sipacapa Quiché,qum,subgroup,sipa1247,Sipacapense
+Sacapultec,quv,subgroup,saca1238,Sacapulteco
+Western Desert Language,qwdl,subgroup,,
+Kashkai,qxq,subgroup,qash1240,Qashqa'i
+Yalyi,qyar,subgroup,,
+Rendille,rel,subgroup,rend1243,Rendille
+Maropa,rey,subgroup,reye1240,Reyesano
+Rimi,rim,subgroup,nyat1246,Nyaturu
+Ritharngu,rit,language,rita1239,Ritharrngu
+Rembarrnga,rmb,language,remb1249,Rembarrnga
+Ronga,rng,subgroup,rong1268,Ronga
+Romanche,roh,subgroup,roma1326,Romansh
+Common Romance,roma,subgroup,,
+Romani,romi,subgroup,,
+Romanian,ron,language,roma1327,Romanian
+Moldavan,ron-mol,dialect,,
+Runga,rou,subgroup,rung1258,Runga
+Kirundi,run,subgroup,rund1242,Rundi
+Istro-Rumanian,ruo,subgroup,istr1245,Istro Romanian
+Russian,rus,language,russ1263,Russian
+Eastern Akan'e,rus-eak,dialect,,
+Gdov,rus-gdo,dialect,,
+Kostroma,rus-kos,dialect,,
+Kursk-Orel,rus-kur,dialect,,
+Ladoga-Tixvin,rus-ldt,dialect,,
+Novgorod,rus-nov,dialect,,
+Northern Transitional,rus-ntr,dialect,,
+Pskov,rus-psk,dialect,,
+Rjazan',rus-rjz,dialect,,
+Seliger-Toržok,rus-sel,dialect,,
+Southeastern Transitional,rus-set,dialect,,
+Southwestern Transitional,rus-swt,dialect,,
+Tver,rus-tvr,dialect,,
+Upper Dnepr,rus-udn,dialect,,
+Upper Desna,rus-uds,dialect,,
+Vladimir,rus-vla,dialect,,
+Vologda,rus-vol,dialect,,
+Western Russian,rus-wes,dialect,,
+Chal,rut,subgroup,rutu1240,Rutul
+Sauk-Fox,sac,language,mesk1242,Meskwaki
+Sandawe,sad,language,sand1273,Sandawe
+Yakut,sah,subgroup,yaku1245,Sakha
+Saharan,saha,subgroup,,
+Salish,sali,subgroup,,
+Samburu,saq,language,samb1315,Samburu
+Sarcee,sarc,subgroup,,
+Shabo,sbf,subgroup,shab1252,Shabo
+Safwa,sbk,subgroup,safw1238,Safwa
+Eshisango,sbp,subgroup,sang1330,Sangu (Tanzania)
+Subiya,sbs,language,subi1246,Subiya
+Southern Caddoan,scad,subgroup,,
+Sri Lankan Creole Malay,sci,language,sril1245,Sri Lanka Malay
+Slavey,scs,subgroup,nort2942,North Slavey
+Bearlake Slavey,scs-bea,dialect,,
+Hare,scs-har,language,,
+Mountain Slavey,scs-mou,language,,
+South Cushitic,scus,subgroup,,
+Sassarese,sdc,language,sass1235,Sassarese Sardinian
+"Kurdish, Southern",sdh,language,sout2640,Southern Kurdish
+Northeastern Sardinian,sdn,subgroup,gall1276,Gallurese Sardinian
+Siciatl,sec,subgroup,sech1246,Sechelt
+Tsonnontouan,see,subgroup,sene1264,Seneca
+"Senoufo, Cebaara",sef,language,ceba1235,Senari
+Chisena,seh,subgroup,nucl1396,Sena
+Ceri,sei,subgroup,seri1257,Seri
+Sekani,sek,language,seka1250,Sekani
+Selkup,sel,language,selk1253,Selkup
+dialect of Ket,sel-ket,dialect,,
+Nanergé,sen,subgroup,nane1238,Nanerigé Sénoufo
+Sena,sena,subgroup,,
+Serrano,ser,language,serr1255,Serrano
+Sahaptian,shap,subgroup,,
+Hindi-Based Creoles,shbc,subgroup,,
+Shonshoni,shh,subgroup,shos1248,Shoshoni
+Shuswap,shs,language,shus1248,Shuswap
+"Arabic, Chadian Spoken",shu,language,chad1249,Chadian Arabic
+Batha,shu-bat,dialect,,
+South Halmahera-West New Guinea,shwn,subgroup,,
+"Senoufo, Syenara",shz,language,syen1235,Syenara Senoufo
+Sinhala,sin,language,sinh1246,Sinhala
+Southern Iroquoian,siro,subgroup,,
+Lappish-Swedish,sju,subgroup,umes1235,Ume Saami
+Shawnee,sjw,language,shaw1249,Shawnee
+Southern Sierra Miwok,skd,language,sout2985,Southern Sierra Miwok
+Maia,sks,language,maia1254,Maia
+Slavische Sprache,slav,subgroup,,
+Central Slovak,slk-cen,dialect,,
+Eastern Slovak,slk-eas,dialect,,
+Western Slovak,slk-wes,dialect,,
+Sala,slr,subgroup,sala1264,Salar
+Notranjsko,slv-inn,dialect,,
+Koroška baza,slv-kor,dialect,,
+Lower Carniolan,slv-low,dialect,,
+Pannonian,slv-pan,dialect,,
+Primorska baza,slv-pri,dialect,,
+Rovte,slv-rov,dialect,,
+Stajerski,slv-sta,dialect,,
+Upper Carniola,slv-upp,dialect,,
+Lappish-Swedish,sma,subgroup,sout2674,South Saami
+Lappish-Swedish,sme,subgroup,nort2671,North Saami
+Auwe,smf,language,auwe1239,Auwe
+Lappish-Swedish,smj,subgroup,lule1254,Lule Saami
+Samojedische Sprachen,smoy,subgroup,,
+Shona,sna,language,shon1251,Shona
+Karanga,sna-kar,dialect,,
+Toko,sna-tok,dialect,,
+Zezuru,sna-zez,dialect,,
+Senufo,snfo,subgroup,,
+Southern Nilotic,snil,subgroup,,
+Chango,snq,subgroup,sang1333,Sangu (Gabon)
+Senari,snri,subgroup,,
+Southern Numic,snum,subgroup,,
+Shona (S.10),sona,subgroup,,
+Songhay,song,subgroup,,
+Northeast Luba,sop,subgroup,song1303,Songe
+Sesotho,sot,subgroup,sout2807,Southern Sotho
+Sotho,soth,subgroup,,
+Sotho-Tswana (S.30),sots,subgroup,,
+Kisonjo,soz,subgroup,temi1247,Temi
+Español,spa,subgroup,stan1288,Spanish
+Southern Panoan,span,subgroup,,
+Southern Pama Subgroup,spma,subgroup,,
+Suppire-Mamara,spmm,subgroup,,
+Spokane,spo,dialect,spok1245,Spokane
+Koony,spy-koo,dialect,,
+Soqoṭri,sqt,language,soqo1240,Soqotri
+Squamish,squ,language,squa1248,Squamish
+Logudorese,src,subgroup,logu1236,Logudorese Sardinian
+Siriono,srq,subgroup,siri1273,Sirionó
+Tsuut'ina,srs,subgroup,sars1236,Sarsi
+"Arabic, Shihhi Spoken",ssh,language,shih1239,Ru'us al-Jibal
+Siswazi,ssw,subgroup,swat1243,Swati
+Stoney,sto,language,ston1242,Stoney
+Straits,str,subgroup,stra1244,Northern Straits Salish
+SENO̍OŦEN,str-saa,dialect,,
+Semiahmoo,str-sem,dialect,,
+Songhees,str-son,dialect,,
+Subtiaba-Tlapanec,subt,subgroup,,
+Sukuma,suk,language,suku1261,Sukuma
+Susu,sus,language,susu1250,Susu
+Sutiaba,sut,dialect,subt1250,Subtiaba
+Svan,sva,language,svan1243,Svan
+Swahili (G.40),swah,subgroup,,
+Nootkan,swak,subgroup,,
+Kisuahili,swh,subgroup,swah1253,Swahili
+Lower Tanana,taa,language,lowe1425,Lower Tanana
+Tabassaran,tab,subgroup,taba1259,Tabasaran
+Takanan,taca,subgroup,,
+Takana,tacp,subgroup,,
+Tahltan Cluster,tahl,subgroup,,
+Tai-Kadai,taik,subgroup,,
+Damulian,tam,subgroup,tami1289,Tamil
+Tanaina-Ahtna,tana,subgroup,,
+Tanana,tann,subgroup,,
+Tarascan,tara,subgroup,,
+Tarahumara,tarh,subgroup,,
+Tamasheq,tash,subgroup,,
+Tasmanian,tasm,subgroup,,
+Tatar,tat,language,tata1255,Tatar
+Baraba,tat-bar,dialect,,
+West Siberian Tartar,tat-eas,dialect,,
+Middle Tatar,tat-mid,dialect,,
+"Tanana, Upper",tau,subgroup,uppe1437,Upper Tanana
+Thurawal,tbh,language,thur1254,Thurawal
+Wadiwadi,tbh-wad,dialect,,
+Tanacross,tcb,language,tana1290,Tanacross
+Tatoga,tcc,subgroup,dato1239,Barabayiiga-Gisamjanga
+Southern Tutchone,tce,language,sout2957,Southern Tutchone
+Tlapaneco-Sutiaba,tcf,language,mali1285,Malinaltepec Me'phaa
+Todi,tcx,subgroup,toda1252,Toda
+Tulu,tcy,language,tulu1258,Tulu
+Tepewa,tee,language,hueh1236,Huehuetla Tepehua
+Teke (B.70),teke,subgroup,,
+Tailangi,tel,subgroup,telu1262,Telugu
+Bakedi,teo,subgroup,teso1249,Teso
+Tepehua,tepe,subgroup,,
+Tepiman,tepi,subgroup,,
+Tequistlatecan,tequ,subgroup,,
+Tetela (C.80),tetl,subgroup,,
+Karamojong-Teso,tetu,subgroup,,
+Arizona Tewa,tew,language,tewa1260,Rio Grande Tewa
+Tewa,tewa,subgroup,,
+Tano,tew-han,dialect,,
+Rio Grande Tewa,tew-rio,dialect,,
+Tanaina,tfn,language,tana1289,Dena'ina
+Sagalla,tga,language,saga1262,Sagalla
+Tagwana-Djimini,tgdj,subgroup,,
+Tagalog,tgl,language,taga1270,Tagalog
+Tagish,tgx,subgroup,tagi1240,Tagish
+Than,than,subgroup,,
+Thayore,thd,language,thay1249,Thayore
+Thompson,thp,language,thom1243,Thompson
+Thracian,thra,subgroup,,
+Tahltan,tht,subgroup,tahl1239,Tahltan
+Tiv,tiv,subgroup,tivv1240,Tiv
+Tiwi,tiw,language,tiwi1244,Tiwi
+Tiwa,tiwa,subgroup,,
+Southern Tiwa,tix,subgroup,sout2961,Southern Tiwa
+Isleta-Sandia,tix-isl,dialect,,
+Isleta-Sandia,tix-san,dialect,,
+Tjururu,tju,subgroup,tjur1240,Tjurruru
+Caxur,tkr,subgroup,tsak1249,Tsakhur
+Misantla Totonako,tlc,dialect,yecu1235,Yecuatla Totonac
+Tlinkit,tli,subgroup,tlin1245,Tlingit
+Tlingit,tlin,subgroup,,
+Totonako,tlp,language,filo1235,Filomeno Mata Totonac
+Tacana,tna,language,taca1256,Tacana
+Totonako,toc,language,coyu1235,Coyutla Totonac
+Tojolabal,toj,language,tojo1241,Tojolabal
+Tolowa,tol,subgroup,tolo1259,Tolowa-Chetco
+Tol,tols,subgroup,,
+Juárez Totonako,too,dialect,xico1235,Xicotepec De Juárez Totonac
+Toposa,toq,language,topo1242,Toposa
+Highland Totonako,tos,dialect,high1243,Highland Totonac
+Totonac,totc,subgroup,,
+Totonakan,toto,subgroup,,
+Tanoan,tow,subgroup,jeme1245,Towa
+Towa,towa,subgroup,,
+Azoyú Tlapaneko,tpc,dialect,azoy1236,Azoyú Me'phaa
+Tapiete,tpj,dialect,tapi1253,Tapieté
+Tlapaneco-Sutiaba,tpl,language,tlac1237,Tlacoapa Me'phaa
+Tepewa,tpp,language,pisa1237,Pisaflores Tepehua
+Tlachichilco Tepewa,tpt,dialect,tlac1235,Tlachichilco Tepehua
+Tlapaneco-Sutiaba,tpx,language,acat1239,Acatepec Me'phaa
+Tenino,tqn,dialect,teni1238,Tenino
+Totonako,tqt,language,west1511,Ozumatlán Totonac
+Copala Trike,trc,language,copa1237,Copala Triqui
+Taracahitic,trca,subgroup,,
+Turkana,trka,subgroup,,
+Turkish,trks,subgroup,,
+Trique,trq,subgroup,sanm1298,San Martín Itunyoso Triqui
+Chicahuaxtla Trike,trs,language,chic1273,Chicahuaxtla Triqui
+Tswa,tsc,language,tswa1255,Tswa
+Hlengwe,tsc-hle,dialect,,
+Coast Tsimshian,tsi,subgroup,nucl1649,Southern-Coastal Tsimshian
+Coast Tsimshian,tsi-coa,language,,
+Hydahs,tsim,subgroup,,
+Old Klemtu,tsi-sou,dialect,,
+Nicola,tsla,subgroup,,
+Cuana,tsn,subgroup,tswa1253,Tswana
+Hurutshe,tsn-hur,dialect,,
+Kgatla,tsn-kga,dialect,,
+Kwena,tsn-kwe,dialect,,
+Ngwato,tsn-ngu,dialect,,
+Ngwaketse,tsn-ngw,dialect,,
+Rolong,tsn-rol,dialect,,
+Tawana,tsn-taw,dialect,,
+Tlahaping,tsn-tla,dialect,,
+Thonga,tso,subgroup,tson1249,Tsonga
+Gwamba,tso-gwa,dialect,,
+"Toussian, Northern",tsp,subgroup,nort2787,Northern Toussian
+Tswa-Ronga (S.50),tsrg,subgroup,,
+Tsetsaut,tsts,subgroup,,
+Tswana,tswa,subgroup,,
+Teko,ttc,subgroup,tekt1235,Tektiteko
+Northern Tutchone,ttm,language,nort2941,Northern Tutchone
+Tubatulabal,tub,subgroup,tuba1278,Tübatulabal
+Tubatulabal,tuba,subgroup,,
+Turkmanian,tuk,subgroup,turk1304,Turkmen
+Tumbuka,tum,language,tumb1250,Tumbuka
+Tumbuka (N.20),tumb,subgroup,,
+Tungusic,tung,subgroup,,
+Tuscarora-Nottoway,tuno,subgroup,,
+Tupian,tupi,subgroup,,
+Todga,tuq,subgroup,teda1241,Tedaga
+Turkish,tur,subgroup,nucl1301,Turkish
+Turkish,turk,subgroup,,
+Tuscarora,tus,language,tusc1257,Tuscarora
+Tusia,tusi,subgroup,,
+Tuchone,tutc,subgroup,,
+Turkana,tuv,language,turk1308,Turkana
+"Tugen, North",tuy,language,tuge1241,Tugen
+Turka,tuz,language,turk1306,Turka
+Tubeta,tvs,subgroup,tave1240,Taveta
+Picuris,twf,subgroup,nort1550,Taos Northern Tiwa
+Picuris,twf-pic,language,,
+Taos-Picuris,twf-tao,dialect,,
+Ts'ets'aut,txc,subgroup,tset1236,Tsetsaut
+Souther Ojibwa,txdp,subgroup,,
+Thracian,txh,subgroup,thra1250,Thracian
+Tofa,tyv,language,tuvi1240,Tuvinian
+Tzotzilan,tzel,subgroup,,
+Tenejapa,tzh,subgroup,tzel1254,Tzeltal
+Tzutujil,tzj,language,tzut1248,Tz'utujil
+San Bartolomé Venustiano Carranza Tzotzil,tzo,subgroup,tzot1259,Tzotzil
+Ubangi,uban,subgroup,,
+Ubykh,uby,language,ubyk1235,Ubykh
+Udegeis,ude,subgroup,udih1248,Udihe
+Udmurt,udm,subgroup,udmu1245,Udmurt
+northern,udm-nor,dialect,,
+Uighur,uig,subgroup,uigh1240,Uighur
+Little Russian,ukr,subgroup,ukra1253,Ukrainian
+Ulych,ulc,subgroup,ulch1241,Ulch
+Umatilla,uma,subgroup,umat1237,Umatilla
+Koko-umpilo,ump,subgroup,umpi1239,Umpila
+Munsee,umu,subgroup,muns1251,Munsee
+Ngarinyin,ung,language,ngar1284,Ngarinyin
+Guwij,ung-guw,dialect,,
+Walmbi,ung-wil,dialect,,
+Woljamidi,ung-wol,dialect,,
+Wurora,unp,subgroup,west2435,Western Worrorran
+Oonggoomi,unp-ung,dialect,,
+Chipaya-Uru,urch,subgroup,,
+Muratu,ure,subgroup,uruu1244,Uru
+Uraδi,urf,subgroup,urad1239,Uradhi
+Jathaikana,urf-jat,dialect,,
+Uraly,url,subgroup,ural1274,Urali of Idukki
+Uspanteko,usp,subgroup,uspa1245,Uspanteco
+Uto-Aztecan,utaz,subgroup,,
+Ute,ute,dialect,utes1238,Ute-Southern Paiute
+Uzbek,uzn,subgroup,nort2690,Northern Uzbek
+Warijiyo,var,language,huar1255,Huarijio
+Venet,vec,subgroup,vene1258,Venetian
+Veddah,ved,language,vedd1240,Veddah
+Tshivenda,ven,subgroup,vend1245,Venda
+Mbedzi,ven-mbe,dialect,,
+Veps,vep,language,veps1250,Veps
+Fiot,vif,subgroup,vili1238,Vili
+Kariyarra,vka,language,kari1304,Kariyarra
+Jawunmara,vku,subgroup,kurr1243,Kurrama
+Mardudunera,vma,subgroup,mart1255,Martuthunira
+Mbabaram,vmb,language,mbab1239,Mbabaram
+Miwa,vmi,language,miwa1242,Miwa
+Malgana,vml,subgroup,malg1242,Malgana
+Bulugudu,vml-bul,dialect,,
+Mazateco de Temascal,vmp,subgroup,soya1237,Soyaltepec Mazatec
+Muluridyi,vmu,language,mulu1243,Muluridyi
+Ayautla Soyaltepec Masateko,vmy,language,ayau1235,Ayautla Mazatec
+Huautla-Mazatlán Masateko,vmz,subgroup,maza1296,Mazatlán Mazatec
+Venda (S.20),vnda,subgroup,,
+vote,vot,subgroup,voti1245,Votic
+Serian Isolate,vqdj,subgroup,,
+North Sahaptin,waa,subgroup,wall1238,Northeast Sahaptin
+Wasco-Wishram,wac,dialect,wasc1239,Upper Chinook
+Washoa,was,subgroup,wash1253,Washo
+Washoan Isolate,wash,subgroup,,
+Wati,wati,subgroup,,
+Alagwa,wbj,subgroup,alag1248,Alagwa
+Warlpiri,wbp,language,warl1254,Warlpiri
+Nambuda,wbp-nga,dialect,,
+Mardu,wbt,subgroup,wanm1242,Wanman
+Watjarri,wbv,subgroup,waja1257,Wajarri
+West Chadic,wcha,subgroup,,
+Wadjiginy,wdj,subgroup,wadj1254,Wadjiginy
+Wainggo,wdu,subgroup,wadj1255,Wadjigu
+Western Malayo-Polynesian,wemp,subgroup,,
+Lee-wakya,wga,subgroup,waga1260,Wagaya
+Wangganguru,wgg,language,wang1290,Wangganguru
+Biyay,wgy,subgroup,warr1255,Warrgamay
+"Toussian, Southern",wib,language,sout2797,Southern Toussian
+Witchita,wic,subgroup,wich1260,Wichita
+Wik-Epa,wie,language,wike1239,Wik-Epa
+Wik-Me'anha,wih,language,wikm1246,Wik-Me'anha
+Wikalkan,wik,language,wika1238,Wikalkan
+Walmbi,wil,subgroup,wila1240,Wilawila
+Wik-Mungkan,wim,language,wikm1247,Wik-Mungkan
+Hocak Wazijaci,win,subgroup,hoch1243,Ho-Chunk
+Wintoon,wint,subgroup,,
+Wintu,wit,subgroup,wint1259,Wintu
+Patwin,wit-hil,dialect,,
+Patwin,wit-hpa,dialect,,
+Patwin,wit-npa,dialect,,
+Patwin,wit-pat,dialect,,
+Patwin,wit-riv,dialect,,
+Patwin,wit-rpa,dialect,,
+Southern Hill Patwin,wit-shp,dialect,,
+Patwin,wit-spa,dialect,,
+Wirangu,wiw,language,wira1260,Wirangu-Nauo
+Enibura,wkw,subgroup,waka1274,Wakawaka
+Mooloola,wkw-dal,dialect,,
+Gunbalang,wlg,subgroup,kunb1251,Kunbarlang
+Walloon,wln,subgroup,wall1255,Walloon
+Wambayan,wmb,language,wamb1258,Wambayan
+Gudanji,wmb-gud,dialect,,
+Wamin,wmi,language,wami1239,Wamin
+Western Miwok,wmiw,subgroup,,
+Western Mande,wmnd,subgroup,,
+Western Muskogean,wmsk,subgroup,,
+Juwaliny,wmt,subgroup,walm1241,Walmajarri-Juwaliny
+Djuwarliny,wmt-dju,dialect,,
+Warndarrang,wnd,language,wand1263,Wandarang
+Wonggawan,wnm,subgroup,wang1289,Wanggamala
+Western Numic,wnum,subgroup,,
+Wolof,wolf,subgroup,,
+West Papuan Highlands,wpap,subgroup,,
+Western Pama Subgroup,wpma,subgroup,,
+Didjadidja,wrb,subgroup,warl1256,Warluwara
+Warungu,wrg,language,waru1264,Warrongo
+Wirangu,wrgu,subgroup,,
+Woradjera,wrh,subgroup,wira1262,Wiradhuri
+Malgaru,wri,subgroup,wari1262,Wariyangga
+Wanajaga.,wrl,subgroup,warl1255,Warlmanpa
+Warramunga,wrm,subgroup,waru1265,Warumungu
+Wartaman,wrr,subgroup,ward1246,Wardaman
+Wunambal,wub,language,wuna1249,Wunambal
+Gamberre,wub-gam,dialect,,
+Miwa,wub-miw,dialect,,
+Warrwa,wwr,language,warr1258,Warrwa
+Huron,wya,subgroup,wyan1247,Huron-Wyandot
+Wongai-bun,wyb,subgroup,wang1291,Ngiyambaa
+Narran,wyb-ngi,dialect,,
+Wombungee,wyb-wan,dialect,,
+Waljwan,wyb-way,dialect,,
+Kalmyk-Oirat,xal,language,kalm1243,Oirad-Kalmyk-Darkhat
+|Xam,xam,language,xamm1241,/Xam
+Kawaiisu,xaw,subgroup,kawa1283,Kawaiisu
+Celtiberian,xce,language,celt1247,Celtiberian
+Curonian,xcu,subgroup,,
+Chuvants,xcv,subgroup,chuv1256,Chuvantsy
+Galatian,xga,language,gala1252,Galatian
+"""Kaffer""",xho,subgroup,xhos1239,Xhosa
+Mpondo,xho-mpo,dialect,,
+Mpondomse,xho-mps,dialect,,
+Thembu,xho-the,dialect,,
+Sinca,xin,subgroup,xinc1237,Xincan
+Shinkan Complex,xink,subgroup,,
+Montagnais-Naskapi,xjdu,subgroup,,
+Kgalagadi,xkv,language,kgal1244,Kgalagadi
+Mingrelian,xmf,language,ming1252,Mingrelian
+Gokwom,xom,subgroup,komo1258,Komo (Sudan-Ethiopia)
+Neo-Phrygian,xpg,language,phry1239,Phrygian
+Slave,xsl,language,sout2959,South Slavey
+Transalpine Gaulish,xtg,language,tran1282,Transalpine Gaulish
+Tasmanian,xtz,subgroup,tasm1247,Tasmanian
+Yaminawa,yaa,language,yami1256,Yaminahua
+Northwestern,yak,dialect,yaki1237,Northwest Sahaptin
+Eastern Pama Subgroup,yalc,subgroup,,
+Yao,yao,language,yaoo1241,Yao
+Yao (P.20),yaoo,subgroup,,
+Kahita,yaq,language,yaqu1251,Yaqui
+Yara Subgroup,yara,subgroup,,
+Yaminahua-Sharanahua,yash,subgroup,,
+Yellow Uyghur,ybe,language,west2402,West Yugur
+Yidinic,ydic,subgroup,,
+Yeei,yey,subgroup,yeyi1239,Yeyi
+"Arabic, Judeo-Iraqi",yhd,subgroup,jude1266,Judeo-Iraqi Arabic
+Inggarda,yia,language,ying1247,Yinggarda
+Boolboora,yii,subgroup,yidi1250,Yidiñ
+Koko-Minychéna,yiy,subgroup,yiry1245,Yir-Yoront
+"Yukaghir, Northern",ykg,language,nort2745,Northern Yukaghir
+Yalarnnga,ylr,subgroup,yala1262,Yalarnnga
+East Cape,ynk,subgroup,nauk1242,Naukan Yupik
+Yokuts,yok,subgroup,yoku1256,Northern Yokuts
+Valley Yokuts,yok-far,language,,
+Kings River,yok-kin,dialect,,
+Valley Yokuts,yok-nor,language,,
+Valley Yokuts,yok-sou,language,,
+Tule-Kaweah,yok-tlw,language,,
+Yokuts,yoku,subgroup,,
+Valley Yokuts,yok-val,language,,
+Iombe,yom,subgroup,yomb1244,Yombe
+Yariba,yor,subgroup,yoru1245,Yoruba
+Yurak Samoyed,yrk,subgroup,nene1249,Tundra Nenets
+Yukateko,yua,language,yuca1254,Yucatec Maya
+Yugambal,yub,language,yuga1244,Yugambal
+Uchean,yuc,subgroup,yuch1247,Yuchi
+Yukatekan/Mayan,yuca,subgroup,,
+Uchean,yuch,subgroup,,
+"Arabic, Judeo-Tripolitanian",yud,subgroup,jude1264,Judeo-Tripolitanian Arabic
+Yuin,yuin,subgroup,,
+Western Eskimo,yupi,subgroup,,
+Bia,yuq,subgroup,yuqu1240,Yuqui
+Pekwan,yur,subgroup,yuro1248,Yurok
+Proto Core Thura-Yura,yura,subgroup,,
+Yurok,yuro,subgroup,,
+Yugh,yuu,language,yugh1240,Yugh (Retired)
+Yukaghir (Southern),yux,subgroup,sout2750,Southern Yukaghir
+Yuracaré,yuz,language,yura1255,Yuracaré
+Jawdjibara,ywr,subgroup,yawu1244,Yawuru
+Yawarawarga,yww,language,yawa1258,Yawarawarga
+Zapotec,zae,subgroup,yare1249,Yareni Zapotec
+Zapotec,zai,subgroup,isth1244,Isthmus Zapotec
+Zaramo,zaj,language,zara1247,Zaramo
+Samukoan,zamu,subgroup,,
+Sapoteko,zapc,subgroup,,
+Sapotekan,zapn,subgroup,,
+Zapotec,zar,subgroup,rinc1236,Rincón Zapotec
+Zigula,ziw,language,zigu1244,Zigula-Mushungulu
+Koibal,zkb,language,samo1299,Samoyed Koibal
+Milipitingara,zku,subgroup,kaur1267,Kaurna
+Margany,zmc,subgroup,marg1253,Margany
+Berrigurruk,zme,subgroup,mang1382,Mangerr
+Mandandanyi,zmk,language,mand1417,Mandandanyi
+Maranunggu,zmr,language,mara1386,Maranunggu
+Muruworri,zmu,subgroup,muru1266,Muruwari
+Central Bomitaba,zmx-cen,dialect,,
+Northern Bomitaba,zmx-nor,dialect,,
+Mixtepec Zapotec,zpm,subgroup,mixt1426,Mixtepec Zapotec
+Solteco,zpz,subgroup,texm1235,Texmelucan Zapotec
+Zirenkel,zrn,subgroup,zire1244,Zirenkel
+Southern Sapoteko,zsr,language,sout3004,Southern Rincon Zapotec
+Zulu,zul,subgroup,zulu1248,Zulu
+Qwabe,zul-qwa,dialect,,
+Zuni,zun,subgroup,zuni1245,Zuni
+Zuni,zuni,subgroup,,
