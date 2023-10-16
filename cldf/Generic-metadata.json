@@ -5,21 +5,22 @@
             "@language": "en"
         }
     ],
+    "dc:bibliographicCitation": "LL-MAP: Language and Location - A Map Annotation Project. The LINGUIST List, Indiana University. 2017.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
-    "dc:title": "LL-MAP: Language and Location - Map Accessibility Project",
+    "dc:title": "LL-MAP: Language and Location - A Map Annotation Project",
     "dcat:accessURL": "https://github.com/linguistlist/LL-map",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/linguistlist/LL-map",
             "rdf:type": "prov:Entity",
-            "dc:created": "2718b78",
+            "dc:created": "daa33de",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.8-38-g4c159eea5a",
+            "dc:created": "v4.8",
             "dc:title": "Glottolog"
         }
     ],
@@ -84,6 +85,11 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaReference",
                         "separator": " ",
                         "name": "Media_IDs"
+                    },
+                    {
+                        "dc:conformsTo": "CLDF Markdown",
+                        "dc:format": "text/markdown",
+                        "name": "Related"
                     }
                 ],
                 "foreignKeys": [
@@ -190,7 +196,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 2156,
+            "dc:extent": 2160,
             "tableSchema": {
                 "columns": [
                     {
@@ -238,6 +244,11 @@
                     {
                         "datatype": "integer",
                         "name": "filesize"
+                    },
+                    {
+                        "dc:description": "For GeoJSON data, this number fixes the order in which layers are to be added to a map.",
+                        "datatype": "integer",
+                        "name": "Layer_Order"
                     }
                 ],
                 "primaryKey": [

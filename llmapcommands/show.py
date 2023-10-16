@@ -6,6 +6,13 @@ import pathlib
 
 from cldfbench_llmap import Dataset
 from clldutils.misc import data_url
+from pycldf.media import File, MediaTable
+
+# <script src="https://unpkg.com/leaflet-simplestyle"></script>
+# L.geoJSON(rect, {
+#         useSimpleStyle: true,
+#         useMakiMarkers: true
+#     }).addTo(map);
 
 HTML_TMPL = """
 <!DOCTYPE html>
@@ -36,7 +43,7 @@ HTML_TMPL = """
 			max-height: 100%;
 		}
 	</style>
-
+<script src="https://unpkg.com/leaflet-simplestyle"></script>
 	
 </head>
 <body>
@@ -54,6 +61,9 @@ DESCRIPTION
   <div class="column">
 CONTENT
 </div>
+  <div class="column">
+LEAFLET
+  </div>
 </div>
 </body>
 </html>
@@ -64,12 +74,13 @@ LEAFLET_TMPL = """
 
 <script>
 var geojsons = [GEOJSONS],
+    layertitles = TITLES,
     base = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }),
     layers = [],
-    overlays = [],
+    overlays = {},
     layer,
     bounds;
 
@@ -81,24 +92,27 @@ function onEachFeature(feature, layer) {
         for (prop in feature.properties) {
             html += '<tr><th>' + prop + '</th>';
             html += '<td>' + feature.properties[prop] + '</td></tr>';
-        }
+        };
         layer.bindPopup(html + '</tbody></table>');
+        if (feature.properties.title) {
+            layer.bindTooltip(feature.properties.title).openTooltip();
+        };
     }
 }
 
 for (let i = 0; i < geojsons.length; i++) {
-    layer = L.geoJSON(geojsons[i], {onEachFeature: onEachFeature});
+    layer = L.geoJSON(geojsons[i], {onEachFeature: onEachFeature, useSimpleStyle: true});
     if (bounds) {
         bounds.extend(layer);
     } else {
         bounds = layer.getBounds();
     }
     layers.push(layer);
-    overlays.push(layer);
+    overlays[layertitles[i]] = layer;
 }
 const map = L.map('map', {'layers': layers});
 map.fitBounds(bounds);
-var layerControl = L.control.layers([base], overlays).addTo(map);
+var layerControl = L.control.layers([], overlays).addTo(map);
 </script>
 """
 
@@ -114,29 +128,34 @@ def register(parser):
 
 
 def run(args):
-    ds = Dataset()
-    for row in ds.cldf_reader().objects('ContributionTable'):
+    cldf = Dataset().cldf_reader()
+    mt = MediaTable(cldf)
+    for row in cldf.objects('ContributionTable'):
         if row.id == args.mid:
             print(row.cldf.name)
             print('')
             print(row.cldf.description)
+            print(row.data['Related'])
 
             for l in row.all_related('languageReference'):
                 print(l.cldf.name, l.cldf.glottocode)
 
-            leaflet_maps, image_maps = [], []
+            leaflet_maps, leaflet_titles, image_maps = [], [], []
             for i, media in enumerate(row.all_related('mediaReference')):
                 if media.cldf.mediaType == 'application/geo+json':
-                    leaflet_maps.append(pathlib.Path(media.cldf.downloadUrl.unsplit()).read_text(encoding='utf8')
-                    )
+                    leaflet_maps.append(File(mt, media.data).read().decode('utf8'))
+                    leaflet_titles.append(media.cldf.description)
                 else:
                     image_maps.append(IMAGE_TMPL.replace(
                         'SRC',
                          data_url(pathlib.Path(media.cldf.downloadUrl.unsplit()), mimetype=media.cldf.mediaType)))
 
-                #print(media.cldf.name, media.cldf.downloadUrl.unsplit())
+            #
+            # FIXME: obey layer_order and layer description for geojson content!
+            # Convert XML style to https://github.com/mapbox/simplestyle-spec ?
+            #
             page = HTML_TMPL.replace(
                 'CONTENT',
-                '\n'.join(image_maps + [LEAFLET_TMPL.replace('GEOJSONS', ', '.join(leaflet_maps))])
+                '\n'.join(image_maps)).replace('LEAFLET', '\n'.join([LEAFLET_TMPL.replace('GEOJSONS', ', '.join(leaflet_maps)).replace('TITLES', json.dumps(leaflet_titles))])
             ).replace('TITLE', row.cldf.name).replace('DESCRIPTION', row.cldf.description)
             pathlib.Path('res.html').write_text(page, encoding='utf8')

@@ -1,0 +1,263 @@
+{
+    "creators": [
+        {
+            "name": "Anthony Aristar"
+        },
+        {
+            "name": "Helen Aristar-Dry"
+        },
+        {
+            "name": "Yichun Xie"
+        },
+        {
+            "name": "Damir Cavar"
+        },
+        {
+            "name": "Malgorzata Cavar"
+        },
+        {
+            "name": "Lwin Moe"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Sarah Fox",
+            "type": "WorkPackageLeader"
+        },
+        {
+            "name": "Matt Lahrman",
+            "type": "WorkPackageLeader"
+        },
+        {
+            "name": "Amy Brunett",
+            "type": "WorkPackageLeader"
+        },
+        {
+            "name": "Erin Smith",
+            "type": "WorkPackageLeader"
+        },
+        {
+            "name": "Hunter Lockwood",
+            "type": "WorkPackageLeader"
+        },
+        {
+            "name": "Daniel Parker",
+            "type": "WorkPackageLeader"
+        },
+        {
+            "name": "Susanne Vejdemo",
+            "type": "WorkPackageLeader"
+        },
+        {
+            "name": "Megan Zdrojkowski",
+            "type": "WorkPackageLeader"
+        },
+        {
+            "name": "Fatemeh Abdollahi",
+            "type": "Other"
+        },
+        {
+            "name": "Catherine Adams",
+            "type": "Other"
+        },
+        {
+            "name": "Georgina Brown",
+            "type": "Other"
+        },
+        {
+            "name": "Qiaochu Chen",
+            "type": "Other"
+        },
+        {
+            "name": "Gin Cordon",
+            "type": "Other"
+        },
+        {
+            "name": "Brandon Devine",
+            "type": "Other"
+        },
+        {
+            "name": "Pamela Dixon",
+            "type": "Other"
+        },
+        {
+            "name": "Kristen Dunkinson",
+            "type": "Other"
+        },
+        {
+            "name": "Christine Evans",
+            "type": "Other"
+        },
+        {
+            "name": "Sarah Fox",
+            "type": "Other"
+        },
+        {
+            "name": "Jacob Henry",
+            "type": "Other"
+        },
+        {
+            "name": "Jacob Heredos",
+            "type": "Other"
+        },
+        {
+            "name": "Keri Holley",
+            "type": "Other"
+        },
+        {
+            "name": "Alex Isotalo",
+            "type": "Other"
+        },
+        {
+            "name": "Noah Kaufman",
+            "type": "Other"
+        },
+        {
+            "name": "Karrie Kuecker",
+            "type": "Other"
+        },
+        {
+            "name": "Ania Kubisz",
+            "type": "Other"
+        },
+        {
+            "name": "Okki Kurniawan",
+            "type": "Other"
+        },
+        {
+            "name": "Luiza Lukowicz",
+            "type": "Other"
+        },
+        {
+            "name": "Arjuna Mahenthiran",
+            "type": "Other"
+        },
+        {
+            "name": "Hannah Morales",
+            "type": "Other"
+        },
+        {
+            "name": "Stephanie Morse",
+            "type": "Other"
+        },
+        {
+            "name": "Steve Politzer-Ahles",
+            "type": "Other"
+        },
+        {
+            "name": "Nicholas Prokup",
+            "type": "Other"
+        },
+        {
+            "name": "Zac Smith",
+            "type": "Other"
+        },
+        {
+            "name": "Bethany Townsend",
+            "type": "Other"
+        },
+        {
+            "name": "Mfon Udoinyang",
+            "type": "Other"
+        },
+        {
+            "name": "Xiyan Wang",
+            "type": "Other"
+        },
+        {
+            "name": "Martin Warin",
+            "type": "Other"
+        },
+        {
+            "name": "Elyssa Winzeler",
+            "type": "Other"
+        },
+        {
+            "name": "Brent Woo",
+            "type": "Other"
+        },
+        {
+            "name": "Alison Zaharee",
+            "type": "Other"
+        },
+        {
+            "name": "Joshua Thompson",
+            "type": "Other"
+        },
+        {
+            "name": "Michael Appleby",
+            "type": "Other"
+        },
+        {
+            "name": "Ben Cool",
+            "type": "Other"
+        },
+        {
+            "name": "Chris Dibbs",
+            "type": "Other"
+        },
+        {
+            "name": "Ed Kmett",
+            "type": "Other"
+        },
+        {
+            "name": "Zongsha Sha",
+            "type": "Other"
+        },
+        {
+            "name": "Gayathri Sriram",
+            "type": "Other"
+        },
+        {
+            "name": "Gary Simons",
+            "type": "Other"
+        },
+        {
+            "name": "Andrea Berez",
+            "type": "DataCollector"
+        },
+        {
+            "name": "\u00d6esten Dahl",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Arienne Dwyer",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Veronica Grondona",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Gary Holton",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Ljuba Veselinova",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Steve Moran",
+            "type": "Editor"
+        },
+        {
+            "name": "Daniel Swanson",
+            "type": "Editor"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "Editor"
+        }
+    ],
+    "title": "LL-MAP: Language and Location - A Map Annotation Project",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>LL-MAP: Language and Location - A Map Annotation Project. The LINGUIST List, Indiana University. 2017.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
